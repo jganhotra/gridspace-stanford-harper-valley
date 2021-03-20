@@ -1,0 +1,26 @@
+0000 agent_45 gridspace_greeting gridspace_open_question#hello this is happy valley national bank my name is david how can i help you today#
+0001 caller_6 gridspace_response gridspace_greeting#hi my name is jennifer brown i would like to pay a bill#
+0002 agent_45 gridspace_other#okay i can help you with that#
+0003 agent_45 gridspace_data_question#what is the company name#
+0004 caller_6 gridspace_response#the company is smart electric#
+0005 agent_45 gridspace_other gridspace_acknowledgement#smart electric#
+0006 agent_45 gridspace_data_question#and could i get the address for that#
+0007 agent_45 gridspace_data_question gridspace_filler_disfluency#well actually#
+0008 caller_6 gridspace_response gridspace_other#the address is zero two one sorry#
+0009 agent_45 gridspace_other gridspace_confirm_data#nope go ahead zero two one#
+0010 caller_6 gridspace_data_question gridspace_response#main street#
+0011 caller_6 gridspace_response#harper valley california#
+0012 caller_6 gridspace_response#two three three seven five#
+0013 agent_45 gridspace_data_question#okay can you repeat that zip code for me#
+0014 caller_6 gridspace_data_communication gridspace_data_response#two#
+0015 caller_6 gridspace_data_response#three three seven five#
+0016 agent_45 gridspace_confirm_data#okay so that was zero two one main street harper valley#
+0017 agent_45 gridspace_data_question gridspace_confirm_data#california two three three seven five#
+0018 agent_45 gridspace_data_question#okay and what is the bill amount#
+0019 caller_6 gridspace_yes_response#yes#
+0020 caller_6 gridspace_data_response#the amount of the bill is ninety dollars#
+0021 agent_45 gridspace_acknowledgement gridspace_confirm_data#okay ninety dollars#
+0022 agent_45 gridspace_open_question#is there anything else i can help you with#
+0023 agent_45 gridspace_thanks gridspace_closing#okay thank you for calling you have a great day#
+0024 caller_6 gridspace_thanks gridspace_other#no thank you#
+0025 caller_6 gridspace_thanks gridspace_closing#you too bye#

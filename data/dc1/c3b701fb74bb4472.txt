@@ -1,0 +1,33 @@
+0000 agent_17 gridspace_greeting gridspace_open_question#hello this is harper valley national bank my name is mary how can i help you today#
+0001 caller_59 gridspace_problem_description#hi this is miss james williams#
+0002 caller_59 gridspace_problem_description gridspace_data_response#and i wanna order some#
+0003 caller_59 gridspace_filler_disfluency#um#
+0004 caller_59 gridspace_data_communication gridspace_data_response#i wanna order some checkbooks and i want to get my account balance#
+0005 agent_17 gridspace_data_question#sure i can help you with that um so first i'm gonna help you to order a check book what is your address#
+0006 caller_59 gridspace_data_response#it's one four seven five#
+0007 caller_59 gridspace_data_communication gridspace_filler_disfluency#it is um#
+0008 caller_59 gridspace_data_communication gridspace_data_response#north creek#
+0009 caller_59 gridspace_data_response#california#
+0010 caller_59 gridspace_data_response#two seven five one#
+0011 agent_17 gridspace_data_question#um what is the#
+0012 caller_59 gridspace_data_response#three two#
+0013 agent_17 gridspace_acknowledgement#okay#
+0014 agent_17 gridspace_data_question#um what is the city again#
+0015 caller_59 gridspace_other gridspace_data_response#i'm sorry what#
+0016 agent_17 gridspace_data_question#what is the city of your address#
+0017 caller_59 gridspace_filler_disfluency#oh um#
+0018 caller_59 gridspace_data_communication gridspace_data_response#north creek#
+0019 agent_17 gridspace_thanks#okay thank you#
+0020 agent_17 gridspace_other gridspace_procedure_explanation#so i have been ordered for you a new checkbook#
+0021 agent_17 gridspace_procedure_explanation#and um you should be able to receive it in three to five business days#
+0022 agent_17 gridspace_open_question#is there anything else i can help you with#
+0023 caller_59 gridspace_response gridspace_other#and i need to check my account balance#
+0024 agent_17 gridspace_data_question#uh which account would you uh which account would you like to check#
+0025 caller_59 gridspace_data_response#my checking account#
+0026 agent_17 gridspace_acknowledgement#okay#
+0027 agent_17 gridspace_data_response#so your checking account balance is fifty six dollars#
+0028 caller_59 gridspace_filler_disfluency gridspace_problem_description#uhm that's all#
+0029 agent_17 gridspace_open_question#is there anything else i can help you with#
+0030 agent_17 gridspace_thanks gridspace_closing#thank you for calling have a great day#
+0031 caller_59 gridspace_thanks gridspace_closing#you too thank you bye bye#
+0032 agent_17 gridspace_closing#bye#

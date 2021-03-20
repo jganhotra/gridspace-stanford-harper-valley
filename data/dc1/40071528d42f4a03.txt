@@ -1,0 +1,12 @@
+0000 agent_7 gridspace_greeting#hello#
+0001 caller_40 gridspace_greeting#hi my name is john rodriguez#
+0002 caller_40 gridspace_data_question gridspace_problem_description#i would like to schedule an appointment#
+0003 caller_40 gridspace_data_question gridspace_data_response#hi my name is john rodriguez#
+0004 agent_7 gridspace_data_question#hi john what day would you like for your appointment#
+0005 caller_40 gridspace_filler_disfluency gridspace_data_response#saturday#
+0006 agent_7 gridspace_data_question#what time would you like for your appointment#
+0007 caller_40 gridspace_response gridspace_data_response#four fifteen pm#
+0008 agent_7 gridspace_procedure_explanation gridspace_open_question#your appointment has been scheduled for saturday at four fifteen p m is there anything else i can help you with#
+0009 caller_40 gridspace_other gridspace_filler_disfluency#no#
+0010 agent_7 gridspace_open_question#is there anything else i can help you with#
+0011 agent_7 gridspace_thanks gridspace_closing#thank you for calling have a great day#

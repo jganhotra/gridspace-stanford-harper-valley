@@ -1,0 +1,28 @@
+0000 caller_22 gridspace_greeting#hello this is harper valley national bank my name is david how can i help you today#
+0001 agent_35 gridspace_greeting gridspace_problem_description#hi my name is mary wilson i would like to pay a bill#
+0002 caller_22 gridspace_procedure_explanation gridspace_yes_response#okay you wanna pay a bill#
+0003 caller_22 gridspace_data_question#what is the company name#
+0004 agent_35 gridspace_data_response#the company name is smart electric#
+0005 caller_22 gridspace_other gridspace_bear_with_me#smart electric#
+0006 agent_35 gridspace_data_communication gridspace_other#smart it's smart and then it's e l i'll spell it for you e l e c t i c there's no r after the t it's just electric#
+0007 caller_22 gridspace_data_question#what is the company address#
+0008 caller_22 gridspace_acknowledgement#okay#
+0009 caller_22 gridspace_other#t i#
+0010 caller_22 gridspace_acknowledgement#oh okay#
+0011 caller_22 gridspace_data_question#and then what is the company address#
+0012 agent_35 gridspace_response gridspace_data_response#the address is six seventy two#
+0013 agent_35 gridspace_data_response#first street#
+0014 agent_35 gridspace_data_communication gridspace_data_response#harper valley#
+0015 caller_22 gridspace_acknowledgement gridspace_filler_disfluency#okay#
+0016 agent_35 gridspace_data_communication gridspace_data_response#oregon#
+0017 agent_35 gridspace_data_response#eight two three four seven#
+0018 caller_22 gridspace_acknowledgement gridspace_filler_disfluency#okay#
+0019 caller_22 gridspace_data_question gridspace_other#okay six seventy two first street harper valley oregon#
+0020 agent_35 gridspace_data_response#eight two three four seven#
+0021 caller_22 gridspace_data_question#eight two three four seven okay what is the bill amount#
+0022 agent_35 gridspace_data_response#the amount of the bill is one hundred and forty seven dollars#
+0023 caller_22 gridspace_data_question gridspace_confirm_data#one hundred and forty seven dollars#
+0024 caller_22 gridspace_acknowledgement gridspace_filler_disfluency#okay#
+0025 caller_22 gridspace_open_question#so we will send your payment um is there anything else i can help you with#
+0026 agent_35 gridspace_other gridspace_problem_description#no that'll be all#
+0027 caller_22 gridspace_thanks gridspace_closing#alright thank you for calling have a great day#

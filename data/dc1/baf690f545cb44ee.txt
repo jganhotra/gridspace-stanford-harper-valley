@@ -1,0 +1,29 @@
+0000 agent_38 gridspace_greeting gridspace_open_question#hello this is harper valley national bank my name is linda how can i help you today#
+0001 caller_21 gridspace_greeting#hello#
+0002 agent_38 gridspace_greeting gridspace_open_question#hello how are you#
+0003 caller_21 gridspace_greeting gridspace_problem_description#hi i'd like to schedule appointment#
+0004 agent_38 gridspace_other gridspace_open_question#how can i help you#
+0005 caller_21 gridspace_response gridspace_problem_description#um for sunday an appointment for sunday at two thirty#
+0006 agent_38 gridspace_acknowledgement gridspace_open_question#alright#
+0007 caller_21 gridspace_problem_description gridspace_data_response#two thirty p m and sunday#
+0008 agent_38 gridspace_acknowledgement#oh okay okay#
+0009 agent_38 gridspace_bear_with_me#mmm let me let me just check that for ya#
+0010 caller_21 gridspace_thanks#thank you so much#
+0011 agent_38 gridspace_data_question gridspace_bear_with_me#let me check that for you okay you want sunday#
+0012 caller_21 gridspace_acknowledgement#gotcha gotcha#
+0013 agent_38 gridspace_other gridspace_procedure_explanation#perfect at two thirty#
+0014 caller_21 gridspace_data_response gridspace_problem_description#yeah two thirty#
+0015 caller_21 gridspace_acknowledgement gridspace_yes_response#yeah#
+0016 agent_38 gridspace_other#oh wonderful#
+0017 caller_21 gridspace_other gridspace_filler_disfluency#beautiful#
+0018 agent_38 gridspace_data_question gridspace_procedure_explanation#alright i've got you scheduled you will receive an email#
+0019 caller_21 gridspace_thanks gridspace_other#you're wonderful have a great day#
+0020 agent_38 gridspace_procedure_explanation gridspace_open_question#you'll be receiving an email to confirm that is there anything else i can help you with other than that#
+0021 caller_21 gridspace_thanks#thank you you're wonderful#
+0022 caller_21 gridspace_thanks gridspace_closing#that's all you're wonderful you're wonderful have a great day#
+0023 agent_38 gridspace_acknowledgement gridspace_closing#alright#
+0024 caller_21 gridspace_closing#uh no you have a great day#
+0025 agent_38 gridspace_closing#you have a great day too bye bye#
+0026 agent_38 gridspace_closing#no you have a great day bye bye#
+0027 caller_21 gridspace_closing#alright you know what i will but you can have one too take care#
+0028 agent_38 gridspace_closing#okay uh let's do that#

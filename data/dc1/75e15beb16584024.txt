@@ -1,0 +1,26 @@
+0000 agent_59 gridspace_greeting#hello this is harper valley national bank my name i is john how can i help you today#
+0001 caller_45 gridspace_greeting gridspace_problem_description#hi my name is david rodriguez i need a new checkbook#
+0002 agent_59 gridspace_other#okay a new check book i can do that i can help you with that#
+0003 agent_59 gridspace_data_question gridspace_confirm_data#ordering a checkbook#
+0004 agent_59 gridspace_data_question#can i get your address#
+0005 caller_45 gridspace_data_communication gridspace_data_response#my address is one four four#
+0006 agent_59 gridspace_data_question gridspace_confirm_data#one four four#
+0007 caller_45 gridspace_data_question gridspace_confirm_data#first street#
+0008 agent_59 gridspace_data_response#first street#
+0009 caller_45 gridspace_data_question gridspace_confirm_data#first street#
+0010 agent_59 gridspace_acknowledgement gridspace_other#and california is the#
+0011 caller_45 gridspace_data_communication gridspace_data_response#forest ranch california#
+0012 caller_45 gridspace_other#nine one nine eight two#
+0013 agent_59 gridspace_data_question gridspace_acknowledgement#c l f#
+0014 caller_45 gridspace_data_communication gridspace_data_response#california c a l i f o r n i a#
+0015 agent_59 gridspace_other#c l l c sorry c a l#
+0016 agent_59 gridspace_other gridspace_confirm_data#i f#
+0017 caller_45 gridspace_yes_response gridspace_data_response#o r#
+0018 caller_45 gridspace_filler_disfluency gridspace_yes_response#n i a#
+0019 agent_59 gridspace_other gridspace_confirm_data#okay california#
+0020 agent_59 gridspace_data_question gridspace_other#and your zip code#
+0021 caller_45 gridspace_other#nine one nine eight two#
+0022 agent_59 gridspace_open_question#okay is there anything else i can help you with today#
+0023 caller_45 gridspace_thanks gridspace_other#no that was all thank you#
+0024 agent_59 gridspace_thanks gridspace_closing#okay you have a good day thank you#
+0025 caller_45 gridspace_thanks#thanks#

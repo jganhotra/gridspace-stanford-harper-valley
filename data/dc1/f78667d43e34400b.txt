@@ -1,0 +1,15 @@
+0000 agent_21 gridspace_greeting#hello this is harper valley nation my name is elizabeth how can i help you today#
+0001 agent_21 gridspace_acknowledgement#okay#
+0002 caller_32 gridspace_greeting#hi my name is michael johnson i would like to pay a bill#
+0003 agent_21 gridspace_data_question gridspace_other#and the bill uhm sorry the company name#
+0004 caller_32 gridspace_data_response gridspace_bear_with_me#smart electric#
+0005 agent_21 gridspace_data_question#and the company address#
+0006 caller_32 gridspace_response gridspace_data_response#the address is five seven nine main street#
+0007 caller_32 gridspace_data_response#forest ranch california#
+0008 caller_32 gridspace_data_response#seven seven nine three two#
+0009 agent_21 gridspace_other gridspace_confirm_data#bill amount#
+0010 caller_32 gridspace_data_response#the amount of the bill is one hundred and thirty one dollars#
+0011 agent_21 gridspace_open_question#thank you so much is there anything else i can do#
+0012 agent_21 gridspace_closing#alright have a good day#
+0013 caller_32 gridspace_thanks gridspace_other#no that is all thank you#
+0014 caller_32 gridspace_other gridspace_closing#you too#

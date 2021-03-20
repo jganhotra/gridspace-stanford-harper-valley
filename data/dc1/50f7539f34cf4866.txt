@@ -1,0 +1,24 @@
+0000 agent_60 gridspace_greeting#hello this is harper valley national bank#
+0001 caller_38 gridspace_greeting#where's the other phone#
+0002 agent_60 gridspace_other#i'm sorry hello#
+0003 agent_60 gridspace_greeting#hi this#
+0004 caller_38 gridspace_greeting#hi#
+0005 caller_38 gridspace_greeting#hello my name is mary ellen#
+0006 agent_60 gridspace_open_question#uh huh how can i help you today#
+0007 caller_38 gridspace_data_question gridspace_open_question#yeah i'd like to schedule#
+0008 agent_60 gridspace_data_question gridspace_acknowledgement#okay#
+0009 agent_60 gridspace_data_question#and what day would you like to schedule the appointment for#
+0010 caller_38 gridspace_filler_disfluency#i'd like#
+0011 caller_38 gridspace_data_response gridspace_problem_description#i'd like to schedule an appointment#
+0012 agent_60 gridspace_confirm_data#tuesday alright#
+0013 agent_60 gridspace_other gridspace_confirm_data#oh#
+0014 agent_60 gridspace_data_question#alright and what time would you like to schedule it for#
+0015 caller_38 gridspace_data_communication gridspace_data_response#tuesday#
+0016 caller_38 gridspace_response gridspace_data_response#two forty five please#
+0017 agent_60 gridspace_data_question gridspace_confirm_data#two forty five#
+0018 agent_60 gridspace_confirm_data#alright#
+0019 caller_38 gridspace_yes_response gridspace_data_response#yes#
+0020 agent_60 gridspace_open_question#alright your appointment has been scheduled for tuesday the second at two forty five p m is there anything else i can help you with today#
+0021 caller_38 gridspace_thanks gridspace_other#no i think that's all thank you#
+0022 agent_60 gridspace_thanks gridspace_closing#alright have a great day thank you for calling#
+0023 agent_60 gridspace_closing#bye#

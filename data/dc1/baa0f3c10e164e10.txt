@@ -1,0 +1,13 @@
+0000 agent_44 gridspace_greeting#hello this is happy valley national bank my name is mary#
+0001 agent_44 gridspace_greeting gridspace_open_question#how can i help you today#
+0002 caller_56 gridspace_greeting#hi my name is robert jones#
+0003 caller_56 gridspace_response gridspace_problem_description#i would like to reset my password#
+0004 agent_44 gridspace_data_question#okay what's your phone number#
+0005 caller_56 gridspace_data_response gridspace_problem_description#my phone number is four six five three six six#
+0006 caller_56 gridspace_data_response#eight six five eight#
+0007 agent_44 gridspace_open_question#your password reset linked has been sent to your phone is there anything else i can help you with#
+0008 caller_56 gridspace_response gridspace_other#no that was it#
+0009 agent_44 gridspace_open_question gridspace_closing#oh thank you for calling have a great day#
+0010 agent_44 gridspace_acknowledgement gridspace_closing#bye#
+0011 caller_56 gridspace_closing#you too#
+0012 caller_56 gridspace_acknowledgement gridspace_closing#bye#

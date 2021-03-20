@@ -1,0 +1,23 @@
+0000 agent_44 gridspace_greeting#hello this is harper valley national bank my name is patricia#
+0001 agent_44 gridspace_greeting gridspace_open_question#how can i help you today#
+0002 caller_58 gridspace_problem_description#hi my name is jennifer williams#
+0003 agent_44 gridspace_acknowledgement gridspace_open_question#hi how can i help you today#
+0004 agent_44 gridspace_other#hello#
+0005 agent_44 gridspace_other#hello#
+0006 agent_44 gridspace_other#oh i'm sorry um how can i help you today#
+0007 caller_58 gridspace_yes_response#yes#
+0008 caller_58 gridspace_other gridspace_acknowledgement#hmm#
+0009 agent_44 gridspace_data_question gridspace_other#oh i'm sorry um your phone keeps um it keeps cutting out in and out#
+0010 agent_44 gridspace_data_question gridspace_other#can you repeat that one more time#
+0011 caller_58 gridspace_acknowledgement gridspace_yes_response#okay#
+0012 caller_58 gridspace_response gridspace_problem_description#i would like to reset my password#
+0013 agent_44 gridspace_acknowledgement gridspace_yes_response#okay#
+0014 agent_44 gridspace_data_question#uh what's your phone number#
+0015 caller_58 gridspace_confirm_data gridspace_data_response#eight zero six#
+0016 caller_58 gridspace_confirm_data gridspace_data_response#my phone number is eight zero six#
+0017 caller_58 gridspace_confirm_data gridspace_data_response#six one six zero eight one zero#
+0018 agent_44 gridspace_confirm_data gridspace_procedure_explanation#k your password reset link has been sent to your phone is there anything else i can help you with#
+0019 caller_58 gridspace_other gridspace_problem_description#no that would be all please#
+0020 agent_44 gridspace_closing#thank you for calling have a great day#
+0021 agent_44 gridspace_closing#bye#
+0022 caller_58 gridspace_thanks gridspace_closing#bye bye#

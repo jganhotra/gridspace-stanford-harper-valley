@@ -1,0 +1,17 @@
+0000 agent_21 gridspace_greeting#hello this is harper#
+0001 agent_21 gridspace_greeting#hello#
+0002 caller_33 gridspace_greeting#hello#
+0003 caller_33 gridspace_greeting gridspace_other#yeah i can hear you hi#
+0004 agent_21 gridspace_greeting#hi how can i help you#
+0005 caller_33 gridspace_data_question gridspace_greeting#my name is john garcia#
+0006 agent_21 gridspace_response gridspace_other#nice#
+0007 caller_33 gridspace_greeting gridspace_problem_description#okay my name is john garcia and i'd like to know what are the local branch hours#
+0008 agent_21 gridspace_other gridspace_problem_description#nine thirty a m to five p m#
+0009 caller_33 gridspace_response gridspace_other#throughout the week#
+0010 agent_21 gridspace_acknowledgement#yeah#
+0011 caller_33 gridspace_yes_response#including sunday#
+0012 agent_21 gridspace_acknowledgement gridspace_filler_disfluency#correct#
+0013 caller_33 gridspace_thanks gridspace_filler_disfluency#okay thanks a lot#
+0014 agent_21 gridspace_thanks gridspace_closing#thanks#
+0015 caller_33 gridspace_closing#okay bye bye#
+0016 agent_21 gridspace_closing#have a good day#

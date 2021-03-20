@@ -1,0 +1,30 @@
+0000 agent_39 gridspace_greeting#hello um this is harper valley national bank#
+0001 agent_39 gridspace_greeting#my name is robert#
+0002 agent_39 gridspace_greeting#how can i help you today#
+0003 caller_48 gridspace_greeting#hi my name is mary davis i would like to pay a bill#
+0004 agent_39 gridspace_bear_with_me#okay one second#
+0005 agent_39 gridspace_data_question gridspace_open_question#what is the company name#
+0006 caller_48 gridspace_response#the company name is smart electic that second word is#
+0007 caller_48 gridspace_response#almost like electric but there's no r#
+0008 agent_39 gridspace_other#okay and entering that in now um#
+0009 agent_39 gridspace_data_question#and what is the company address#
+0010 caller_48 gridspace_response gridspace_problem_description#address is#
+0011 caller_48 gridspace_response gridspace_data_response#three four zero#
+0012 caller_48 gridspace_response gridspace_data_communication#first street and that's first spelled out f i r s t#
+0013 agent_39 gridspace_acknowledgement gridspace_other#alright#
+0014 caller_48 gridspace_response gridspace_data_response#harper valley california#
+0015 agent_39 gridspace_data_question gridspace_confirm_data#harper valley cali#
+0016 agent_39 gridspace_data_question gridspace_confirm_data#fornia okay#
+0017 caller_48 gridspace_confirm_data gridspace_data_response#seven five seven four five#
+0018 agent_39 gridspace_data_question#i'm sorry can you repeat that one more time the zip code#
+0019 caller_48 gridspace_data_response#seven five seven four five#
+0020 agent_39 gridspace_data_question#alright so i got three forty first street harper valley california seven seven five seven four five and what is the bill amount#
+0021 caller_48 gridspace_acknowledgement gridspace_yes_response#yeah#
+0022 caller_48 gridspace_data_question gridspace_data_response#the amount of the bill is seventy one dollars#
+0023 agent_39 gridspace_other gridspace_confirm_data#seventy one dollars one second#
+0024 agent_39 gridspace_other#okay so we have sent your payment to smart#
+0025 agent_39 gridspace_other gridspace_procedure_explanation#um electic and#
+0026 agent_39 gridspace_open_question#is there anything else i can help you with today#
+0027 caller_48 gridspace_thanks#that's all thanks#
+0028 agent_39 gridspace_other gridspace_closing#thank you for calling have a great day#
+0029 caller_48 gridspace_closing#you too bye bye#

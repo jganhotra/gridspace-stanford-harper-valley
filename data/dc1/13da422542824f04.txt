@@ -1,0 +1,17 @@
+0000 agent_9 gridspace_greeting#hello this is harper valley national bank my name is jennifer how can i help you today#
+0001 caller_22 gridspace_greeting gridspace_problem_description#hi jennifer uhm my name is patricia garcia#
+0002 caller_22 gridspace_problem_description#and um i lost my debit card#
+0003 caller_22 gridspace_other#can you send me a new one#
+0004 agent_9 gridspace_other#i'm happy to replace that for you#
+0005 agent_9 gridspace_other#so which card would you like to replace your debit card or your credit card#
+0006 caller_22 gridspace_response gridspace_problem_description#well i lost my debit card so i definitely need to have my debit card replaced#
+0007 agent_9 gridspace_acknowledgement#sure#
+0008 agent_9 gridspace_other gridspace_procedure_explanation#i've ordered your replacement debit card it'll be sent to you soon#
+0009 agent_9 gridspace_open_question#is there anything else i can help you with today#
+0010 caller_22 gridspace_other#i'm sorry can you just repeat what you said#
+0011 agent_9 gridspace_procedure_explanation gridspace_open_question#i've ordered your replacement debit card is there anything else that i can help you with today#
+0012 caller_22 gridspace_data_question gridspace_problem_description#mm that's all i just that's all i needed today was just the uh the debit card replaced is there any idea how long that takes#
+0013 agent_9 gridspace_data_question gridspace_procedure_explanation#it should be to you soon sometimes we get it out between uh twenty four and forty eight hours from when we first send it out#
+0014 caller_22 gridspace_thanks#okay i do appreciate your help today thank you#
+0015 agent_9 gridspace_thanks gridspace_closing#thank you for calling have a great day#
+0016 caller_22 gridspace_closing#you too bye#

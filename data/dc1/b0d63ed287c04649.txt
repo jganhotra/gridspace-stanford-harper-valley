@@ -1,0 +1,11 @@
+0000 agent_25 gridspace_greeting#hello this is harper valley national bank my name is elizabeth how can i help you#
+0001 agent_25 gridspace_greeting gridspace_open_question#how can i help you today#
+0002 agent_25 gridspace_greeting#hello#
+0003 caller_22 gridspace_other#excuse me i'm sorry#
+0004 caller_22 gridspace_other gridspace_problem_description#i'm sorry um my phone faded out for a minute there uhm my name is#
+0005 caller_22 gridspace_problem_description#mary johnson and um i'd like to pay a bill#
+0006 agent_25 gridspace_other#pay a bill#
+0007 caller_22 gridspace_yes_response gridspace_problem_description#yes#
+0008 agent_25 gridspace_data_question#what would you like to pay a bill with#
+0009 agent_25 gridspace_other gridspace_bear_with_me#your checking or savings account#
+0010 caller_22 gridspace_data_response#my savings#

@@ -1,0 +1,29 @@
+0000 agent_54 gridspace_greeting#hello this is harper valley national bank my name is john how can i help you today#
+0001 caller_24 gridspace_greeting gridspace_data_response#hi my name is elizabeth garcia#
+0002 caller_24 gridspace_problem_description#i would like to pay a bill#
+0003 agent_54 gridspace_data_question#okay what is the company name#
+0004 caller_24 gridspace_filler_disfluency gridspace_data_response#smart#
+0005 caller_24 gridspace_data_communication gridspace_data_response#electric#
+0006 agent_54 gridspace_data_question#okay what is the company address#
+0007 caller_24 gridspace_data_communication gridspace_data_response#the address is eight#
+0008 caller_24 gridspace_data_communication gridspace_data_response#three one#
+0009 caller_24 gridspace_data_communication#first#
+0010 caller_24 gridspace_data_communication gridspace_data_response#street#
+0011 caller_24 gridspace_data_communication gridspace_data_response#harper valley#
+0012 caller_24 gridspace_data_communication gridspace_data_response#oregon#
+0013 caller_24 gridspace_data_communication gridspace_data_response#five zero three#
+0014 caller_24 gridspace_data_communication gridspace_data_response#zero eight#
+0015 agent_54 gridspace_acknowledgement gridspace_confirm_data#okay#
+0016 agent_54 gridspace_confirm_data#i have#
+0017 agent_54 gridspace_data_question gridspace_confirm_data#eight three one first street#
+0018 agent_54 gridspace_confirm_data#harper valley oregon#
+0019 caller_24 gridspace_yes_response#yes that's correct#
+0020 agent_54 gridspace_other gridspace_confirm_data#five zero three#
+0021 agent_54 gridspace_other gridspace_confirm_data#zero eight#
+0022 agent_54 gridspace_data_question#okay what is the bill amount#
+0023 caller_24 gridspace_data_response#the amount of the bill is seventy eight dollars#
+0024 agent_54 gridspace_acknowledgement gridspace_yes_response#okay#
+0025 agent_54 gridspace_procedure_explanation gridspace_open_question#we will send your payment to smart electric is there anything else i can help you with#
+0026 caller_24 gridspace_other gridspace_thanks#no that will be all thank you very much#
+0027 agent_54 gridspace_closing#alright thank you for calling have a great day#
+0028 caller_24 gridspace_closing#thank you you too bye#

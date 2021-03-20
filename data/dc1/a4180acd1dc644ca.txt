@@ -1,0 +1,10 @@
+0000 caller_57 gridspace_greeting gridspace_other#hi my name is michael rodriguez i lost my credit card#
+0001 caller_57 gridspace_other#can you send me a new one#
+0002 agent_3 gridspace_yes_response#yes of course#
+0003 agent_3 gridspace_yes_response gridspace_problem_description#which one#
+0004 agent_3 gridspace_data_response#your credit card#
+0005 caller_57 gridspace_response gridspace_yes_response#yes my credit card#
+0006 agent_3 gridspace_procedure_explanation gridspace_data_response#alright i've ordered you a replacement credit card#
+0007 agent_3 gridspace_open_question#is there anything else i can help you with#
+0008 caller_57 gridspace_other gridspace_thanks#no thank you that was all#
+0009 agent_3 gridspace_closing#thank you for calling have a great day#

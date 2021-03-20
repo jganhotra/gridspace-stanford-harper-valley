@@ -1,0 +1,23 @@
+0000 agent_12 gridspace_greeting#hello#
+0001 agent_12 gridspace_greeting#hello this is uh harper valley national bank my name is jennifer how can i help you today#
+0002 caller_38 gridspace_response gridspace_greeting#hi my name is michael davis#
+0003 caller_38 gridspace_response gridspace_problem_description#i would like to pay a bill#
+0004 agent_12 gridspace_data_question gridspace_other#you'd like to pay a bill#
+0005 agent_12 gridspace_data_question#no problem what is the company name#
+0006 caller_38 gridspace_response#the company is fossil gas#
+0007 agent_12 gridspace_data_question gridspace_other#fossil gas#
+0008 agent_12 gridspace_data_question#and what is the company address#
+0009 caller_38 gridspace_response#six nine nine#
+0010 caller_38 gridspace_response#first street#
+0011 caller_38 gridspace_response gridspace_other#forest ranch#
+0012 caller_38 gridspace_other gridspace_acknowledgement#oregon#
+0013 caller_38 gridspace_response gridspace_other#seven seven#
+0014 caller_38 gridspace_other#zero#
+0015 caller_38 gridspace_response gridspace_other#seven nine#
+0016 agent_12 gridspace_data_question gridspace_thanks#thanks very much and what is the bill amount#
+0017 caller_38 gridspace_response gridspace_other#the amount of the bill is one hundred and twenty four dollars#
+0018 agent_12 gridspace_thanks#perfect thank you very much#
+0019 agent_12 gridspace_open_question#is there anything else i can help you with#
+0020 caller_38 gridspace_other gridspace_closing#um no i think that's it#
+0021 agent_12 gridspace_closing#thanks very much have a good rest of your day bye#
+0022 caller_38 gridspace_closing#thank you#

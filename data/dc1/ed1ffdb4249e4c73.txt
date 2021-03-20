@@ -1,0 +1,12 @@
+0000 agent_40 gridspace_greeting#hello#
+0001 caller_15 gridspace_greeting#hi my name is#
+0002 caller_15 gridspace_greeting#hi#
+0003 caller_15 gridspace_greeting#my name's patricia smith i need to check my account balance#
+0004 agent_40 gridspace_data_question gridspace_problem_description#which account would you like to check#
+0005 caller_15 gridspace_response gridspace_data_response#my savings account#
+0006 agent_40 gridspace_other gridspace_data_response#your savings account balance is sixty four dollars#
+0007 agent_40 gridspace_open_question#is there anything else i can help you with#
+0008 caller_15 gridspace_other#no#
+0009 caller_15 gridspace_thanks#thank you#
+0010 agent_40 gridspace_thanks gridspace_closing#thank you for calling have a great day#
+0011 caller_15 gridspace_closing#you too#

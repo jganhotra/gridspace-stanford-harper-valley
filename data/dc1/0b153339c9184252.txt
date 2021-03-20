@@ -1,0 +1,23 @@
+0000 agent_22 gridspace_greeting#hello this is harper valley national bank#
+0001 agent_22 gridspace_greeting#my name is michael#
+0002 agent_22 gridspace_greeting gridspace_open_question#how can i help you today#
+0003 caller_54 gridspace_greeting#hi my name is linda miller i would like to reset my password#
+0004 agent_22 gridspace_procedure_explanation#okay i'd be glad to help you reset your password#
+0005 agent_22 gridspace_data_question gridspace_filler_disfluency#and#
+0006 agent_22 gridspace_data_question#what is your phone number#
+0007 caller_54 gridspace_data_response#one two nine#
+0008 agent_22 gridspace_other#one two nine#
+0009 caller_54 gridspace_data_response#three five three#
+0010 agent_22 gridspace_other gridspace_confirm_data#three five three#
+0011 caller_54 gridspace_data_response#seven four zero two#
+0012 agent_22 gridspace_other gridspace_confirm_data#okay so that's one two nine three five three seven four zero two#
+0013 agent_22 gridspace_acknowledgement gridspace_bear_with_me#okay great#
+0014 caller_54 gridspace_yes_response#yes#
+0015 agent_22 gridspace_data_question gridspace_procedure_explanation#alright your password reset link#
+0016 agent_22 gridspace_data_question gridspace_procedure_explanation#has been sent to your phone#
+0017 agent_22 gridspace_other#you're welcome is there anything else i can help you with#
+0018 caller_54 gridspace_thanks#okay thank you so much#
+0019 caller_54 gridspace_other gridspace_problem_description#no that's it#
+0020 agent_22 gridspace_closing#thank you for calling and have a great day#
+0021 agent_22 gridspace_closing#bye#
+0022 caller_54 gridspace_thanks gridspace_closing#you too bye#

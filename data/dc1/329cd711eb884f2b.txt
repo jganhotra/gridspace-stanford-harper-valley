@@ -1,0 +1,23 @@
+0000 agent_38 gridspace_greeting#hello this is harper valley national bank my name is mary how can i help you today#
+0001 caller_26 gridspace_greeting#hi my name is james jones i would like to transfer money between my accounts#
+0002 agent_38 gridspace_acknowledgement gridspace_other#okay absolutely#
+0003 agent_38 gridspace_bear_with_me#one moment let me pull your account up#
+0004 agent_38 gridspace_data_question#what is the transfer amount#
+0005 agent_38 gridspace_data_question#how much are you transferring#
+0006 caller_26 gridspace_problem_description gridspace_data_response#the amount is one hundred and fifty five dollars#
+0007 agent_38 gridspace_confirm_data#one hundred and fifty five okay#
+0008 agent_38 gridspace_data_question gridspace_other#perfect and what is the source account is that your savings or checking account#
+0009 caller_26 gridspace_response#from my checking account to my savings#
+0010 agent_38 gridspace_bear_with_me#are we pulling it out#
+0011 agent_38 gridspace_filler_disfluency gridspace_bear_with_me#oh#
+0012 agent_38 gridspace_acknowledgement gridspace_bear_with_me#oh okay perfect#
+0013 agent_38 gridspace_other gridspace_confirm_data#perfect and the destination account we're pulling it out of checking and you want to put it into savings right#
+0014 caller_26 gridspace_acknowledgement gridspace_yes_response#yes#
+0015 agent_38 gridspace_other gridspace_yes_response#am i correct#
+0016 caller_26 gridspace_acknowledgement gridspace_yes_response#yes#
+0017 agent_38 gridspace_other gridspace_acknowledgement#okay wonderful#
+0018 agent_38 gridspace_other gridspace_procedure_explanation#alright okay i've done that and the transfer is will be complete within seconds uh you'll get an email confirming that uh is there anything else that i can help you with today#
+0019 caller_26 gridspace_other gridspace_problem_description#no that'll be it#
+0020 agent_38 gridspace_thanks gridspace_closing#alright thank you for calling harper valley national bank you have a great day#
+0021 caller_26 gridspace_thanks#you too thank you#
+0022 agent_38 gridspace_closing#bye bye#

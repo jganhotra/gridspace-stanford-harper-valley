@@ -1,0 +1,9 @@
+0000 agent_48 gridspace_greeting gridspace_open_question#hello this is harper valley my name is elizabeth how can i help today#
+0001 caller_28 gridspace_greeting gridspace_problem_description#hi my name is patricia williams what are the local branch hours#
+0002 agent_48 gridspace_other gridspace_problem_description#the branch hours are nine thirty a m#
+0003 agent_48 gridspace_data_question gridspace_other#to five p m#
+0004 agent_48 gridspace_open_question#is there anything else i can help you with#
+0005 caller_28 gridspace_thanks#okay thank you#
+0006 caller_28 gridspace_other gridspace_problem_description#no that'll be it#
+0007 agent_48 gridspace_other gridspace_thanks#thank you for calling have a great day#
+0008 caller_28 gridspace_problem_description gridspace_closing#you too#

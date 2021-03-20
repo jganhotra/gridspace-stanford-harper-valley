@@ -1,0 +1,26 @@
+0000 agent_57 gridspace_greeting#hello this is harper valley national bank my name is robert how can i help you today#
+0001 caller_59 gridspace_greeting#hi my name is jennifer rodriguez#
+0002 agent_57 gridspace_data_question#what day would you like for your appointment#
+0003 caller_59 gridspace_response gridspace_problem_description#and i would like to schedule an appointment#
+0004 caller_59 gridspace_bear_with_me#um hold on let me look at my schedule real fast#
+0005 caller_59 gridspace_response#monday have to#
+0006 caller_59 gridspace_response#go to the doctor#
+0007 agent_57 gridspace_acknowledgement#okay#
+0008 caller_59 gridspace_filler_disfluency#um#
+0009 caller_59 gridspace_response#i think tuesday would be a good day#
+0010 caller_59 gridspace_response#how about tuesday at ten thirty a m#
+0011 agent_57 gridspace_acknowledgement#okay#
+0012 caller_59 gridspace_data_question gridspace_other#would that be okay#
+0013 agent_57 gridspace_acknowledgement gridspace_filler_disfluency#yeah#
+0014 agent_57 gridspace_problem_description gridspace_data_response#said tuesday at ten thirty#
+0015 caller_59 gridspace_acknowledgement gridspace_bear_with_me#yes#
+0016 agent_57 gridspace_acknowledgement gridspace_bear_with_me#yes#
+0017 agent_57 gridspace_acknowledgement#okay#
+0018 agent_57 gridspace_data_question#your appointment#
+0019 agent_57 gridspace_other gridspace_procedure_explanation#has been scheduled#
+0020 agent_57 gridspace_other gridspace_confirm_data#for tuesday are ten thirty a m#
+0021 agent_57 gridspace_open_question#is there anything else i can help you with#
+0022 caller_59 gridspace_response gridspace_yes_response#um no that's all#
+0023 agent_57 gridspace_thanks gridspace_closing#okay thank you for calling have a great day#
+0024 caller_59 gridspace_closing#you too bye bye#
+0025 agent_57 gridspace_closing#bye#

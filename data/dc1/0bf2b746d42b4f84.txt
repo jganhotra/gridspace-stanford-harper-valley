@@ -1,0 +1,26 @@
+0000 caller_16 gridspace_greeting#hello#
+0001 agent_2 gridspace_greeting#hello#
+0002 agent_2 gridspace_greeting gridspace_bear_with_me#one moment please#
+0003 caller_16 gridspace_acknowledgement gridspace_yes_response#mhm#
+0004 agent_2 gridspace_greeting#hello this is harper valley national bank my name is elizabeth how can i help you today#
+0005 caller_16 gridspace_greeting gridspace_problem_description#hi my name is elizabeth jones i would like to pay a bill#
+0006 agent_2 gridspace_data_question#okay i can help you with that what is the company name#
+0007 caller_16 gridspace_response gridspace_data_response#smart electric#
+0008 agent_2 gridspace_other#can you repeat that#
+0009 caller_16 gridspace_response gridspace_bear_with_me#yeah smart#
+0010 caller_16 gridspace_other gridspace_filler_disfluency#electic#
+0011 agent_2 gridspace_data_question#what is the company address#
+0012 caller_16 gridspace_response gridspace_data_response#six one eight#
+0013 caller_16 gridspace_data_response#first street#
+0014 caller_16 gridspace_data_communication gridspace_data_response#forrest ranch#
+0015 caller_16 gridspace_data_communication gridspace_data_response#california#
+0016 caller_16 gridspace_data_communication gridspace_data_response#five three#
+0017 caller_16 gridspace_confirm_data gridspace_data_response#six two two#
+0018 agent_2 gridspace_data_question#what is the bill amount#
+0019 caller_16 gridspace_response gridspace_other#the bill amount is of a hundred and seventeen dollars#
+0020 agent_2 gridspace_acknowledgement#okay#
+0021 agent_2 gridspace_data_question gridspace_procedure_explanation#we will send your payment to smart electric#
+0022 agent_2 gridspace_open_question#is there anything else i can help you with today#
+0023 caller_16 gridspace_thanks#no that was actually it thank you very much#
+0024 agent_2 gridspace_other gridspace_thanks#have a great day thank you#
+0025 caller_16 gridspace_closing#you too bye bye#

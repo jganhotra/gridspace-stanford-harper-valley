@@ -1,0 +1,26 @@
+0000 caller_39 gridspace_greeting gridspace_open_question#hello this is harper valley national bank my name is jennifer how can i help you today#
+0001 agent_57 gridspace_other gridspace_acknowledgement#hi uhm#
+0002 agent_57 gridspace_response gridspace_problem_description#i would like to pay a bill#
+0003 caller_39 gridspace_data_question#okay uhm what is the company name#
+0004 agent_57 gridspace_data_question gridspace_bear_with_me#the company name is uh one second#
+0005 agent_57 gridspace_data_communication gridspace_confirm_data#company name is fossil gas and that is f o s s i l space g a s#
+0006 caller_39 gridspace_data_question#and what is the company address#
+0007 agent_57 gridspace_data_question gridspace_confirm_data#company address is uhm let me see here four two four#
+0008 agent_57 gridspace_data_communication gridspace_data_response#first street#
+0009 agent_57 gridspace_data_communication gridspace_filler_disfluency#comma#
+0010 agent_57 gridspace_other#harper valley#
+0011 caller_39 gridspace_data_question#and what is the bill amount#
+0012 agent_57 gridspace_other#comma#
+0013 agent_57 gridspace_data_communication gridspace_other#oregon o r e g o n#
+0014 agent_57 gridspace_other#comma#
+0015 agent_57 gridspace_other gridspace_confirm_data#two one two#
+0016 agent_57 gridspace_other#eight three#
+0017 caller_39 gridspace_acknowledgement gridspace_other#okay#
+0018 agent_57 gridspace_response gridspace_bear_with_me#uh one second#
+0019 agent_57 gridspace_response gridspace_other#find it here uhm the bill amount is uhm eighty nine dollars#
+0020 caller_39 gridspace_other gridspace_open_question#we will send your payment to fossil gas#
+0021 agent_57 gridspace_other#alright#
+0022 caller_39 gridspace_open_question#is there anything else i can help you with#
+0023 agent_57 gridspace_other gridspace_filler_disfluency#um#
+0024 agent_57 gridspace_thanks#not really thank you so much for your help#
+0025 caller_39 gridspace_open_question gridspace_closing#okay thank you for calling have a good day#

@@ -1,0 +1,19 @@
+0000 agent_20 gridspace_greeting#hello this is harper valley national bank my name is mary how can i help you today#
+0001 caller_38 gridspace_response gridspace_problem_description#um i'm so glad i'm talking to a normal uh a real person uh my name is linda brown and i just need a new checkbook sent to my home please#
+0002 agent_20 gridspace_data_question#alright you need a new checkbook i will only need your address#
+0003 caller_38 gridspace_response gridspace_data_response#yes absolutely my address is six six eight#
+0004 caller_38 gridspace_response gridspace_data_response#main street#
+0005 caller_38 gridspace_response gridspace_data_response#forest ranch california#
+0006 caller_38 gridspace_data_communication gridspace_data_response#uh and the zip code is nine nine zero one one#
+0007 agent_20 gridspace_other#alright i'll read that back to you just to make sure i have it right that's six six eight main street#
+0008 agent_20 gridspace_other#forest ranch california#
+0009 agent_20 gridspace_other#nine nine zero one one#
+0010 caller_38 gridspace_acknowledgement#mhm#
+0011 caller_38 gridspace_other#absolutely you have it#
+0012 agent_20 gridspace_other#alright uh new check book has been sent to your home address#
+0013 agent_20 gridspace_open_question#is there anything else i can help you with today#
+0014 caller_38 gridspace_thanks#okay thank you so much#
+0015 agent_20 gridspace_other#thank you for calling#
+0016 caller_38 gridspace_thanks gridspace_other#uhm no i don't think so i think that#
+0017 agent_20 gridspace_other gridspace_closing#bye#
+0018 caller_38 gridspace_closing#thank you bye bye#

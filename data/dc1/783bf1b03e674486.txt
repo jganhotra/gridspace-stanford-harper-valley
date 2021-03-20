@@ -1,0 +1,21 @@
+0000 agent_59 gridspace_greeting#hello this is miss#
+0001 agent_59 gridspace_greeting gridspace_open_question#this is miss jennifer from harper valley national bank how can i help you today#
+0002 caller_3 gridspace_problem_description#hi my name is john davis i would like to reset my password#
+0003 agent_59 gridspace_other#okay miss john davis#
+0004 agent_59 gridspace_other#reset password#
+0005 agent_59 gridspace_data_question#can i have your phone number#
+0006 caller_3 gridspace_filler_disfluency gridspace_data_response#it is six six eight#
+0007 agent_59 gridspace_acknowledgement#okay#
+0008 agent_59 gridspace_acknowledgement gridspace_filler_disfluency#eight#
+0009 caller_3 gridspace_other#eight one one#
+0010 agent_59 gridspace_other#eight one one#
+0011 caller_3 gridspace_data_response#four eight seven five#
+0012 agent_59 gridspace_acknowledgement gridspace_thanks#seven five#
+0013 agent_59 gridspace_acknowledgement#okay#
+0014 agent_59 gridspace_data_question gridspace_confirm_data#password#
+0015 agent_59 gridspace_open_question#okay is there anything else we can help i'm sorry is there anything else i can help you do today#
+0016 caller_3 gridspace_problem_description#um no that'll be all#
+0017 agent_59 gridspace_closing#okay and you have a great day today#
+0018 agent_59 gridspace_thanks gridspace_closing#alright thank you#
+0019 caller_3 gridspace_closing#you too#
+0020 agent_59 gridspace_closing#bye bye#

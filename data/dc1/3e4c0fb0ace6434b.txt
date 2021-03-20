@@ -1,0 +1,14 @@
+0000 agent_60 gridspace_greeting gridspace_open_question#hello thank you for calling harper valley national bank my name is jennifer how can i help you today#
+0001 caller_56 gridspace_other gridspace_problem_description#hi my name is james brown i lost my debit card can you send me a new one#
+0002 agent_60 gridspace_other#alright and can can you repeat that for me real quick#
+0003 caller_56 gridspace_other#um um can you send me i lost my debit card can you send me a new one#
+0004 agent_60 gridspace_other#okay so you need to replace your card#
+0005 agent_60 gridspace_acknowledgement gridspace_confirm_data#wonderful#
+0006 agent_60 gridspace_other#alright and which card would you like to replace your debit or your credit card#
+0007 caller_56 gridspace_data_response#my debit card#
+0008 agent_60 gridspace_data_question gridspace_other#debit card okay#
+0009 agent_60 gridspace_procedure_explanation gridspace_open_question#alright i've ordered your replacement debit card and you should be getting it soon is there anything else i can help you with#
+0010 caller_56 gridspace_thanks gridspace_other#no thank you that was all#
+0011 agent_60 gridspace_closing#great have a nice day and thank you for calling#
+0012 caller_56 gridspace_closing#bye#
+0013 agent_60 gridspace_closing#bye bye#

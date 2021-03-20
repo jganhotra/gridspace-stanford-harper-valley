@@ -1,0 +1,37 @@
+0000 agent_55 gridspace_greeting#hello this is harper valley national bank my name is james how can i help you today#
+0001 caller_38 gridspace_greeting gridspace_problem_description#uhm hello my name is elizabeth rodriguez#
+0002 caller_38 gridspace_problem_description#i need to#
+0003 agent_55 gridspace_procedure_explanation gridspace_open_question#yes elizabeth how can i help you#
+0004 caller_38 gridspace_problem_description#i would like to um pay a bill#
+0005 agent_55 gridspace_acknowledgement#okay#
+0006 agent_55 gridspace_data_question#uh what is the name of the company that you wanted to pay#
+0007 caller_38 gridspace_data_response gridspace_bear_with_me#one moment#
+0008 caller_38 gridspace_bear_with_me#the let me see the company is#
+0009 caller_38 gridspace_response gridspace_problem_description#the company is fossil gas#
+0010 agent_55 gridspace_data_question#okay and what is their address#
+0011 caller_38 gridspace_data_response#their address or my address oh five forty four#
+0012 agent_55 gridspace_data_question gridspace_confirm_data#their address#
+0013 caller_38 gridspace_data_communication gridspace_data_response#main s#
+0014 agent_55 gridspace_acknowledgement gridspace_confirm_data#uh hm#
+0015 caller_38 gridspace_data_communication gridspace_data_response#five forty four#
+0016 caller_38 gridspace_data_communication gridspace_data_response#main street#
+0017 agent_55 gridspace_acknowledgement#okay#
+0018 agent_55 gridspace_data_question#what is the city#
+0019 caller_38 gridspace_data_communication gridspace_data_response#forest ranch#
+0020 caller_38 gridspace_data_communication gridspace_data_response#forest ranch#
+0021 agent_55 gridspace_acknowledgement#okay#
+0022 caller_38 gridspace_data_communication gridspace_data_response#california#
+0023 agent_55 gridspace_other gridspace_acknowledgement#uh huh#
+0024 caller_38 gridspace_response gridspace_data_response#eight three#
+0025 caller_38 gridspace_data_response#one zero two#
+0026 agent_55 gridspace_other gridspace_acknowledgement#okay#
+0027 agent_55 gridspace_data_question gridspace_other#and can you tell me the amount that you wish to pay#
+0028 caller_38 gridspace_other gridspace_data_response#one hundred and five dollars#
+0029 agent_55 gridspace_acknowledgement#okay#
+0030 agent_55 gridspace_procedure_explanation#i will have scheduled the payment for you to fossil gas#
+0031 agent_55 gridspace_open_question#is there anything else i can help you with#
+0032 caller_38 gridspace_filler_disfluency#um#
+0033 caller_38 gridspace_thanks gridspace_other#no thank you#
+0034 agent_55 gridspace_other gridspace_closing#okay thank you for calling and have a great day#
+0035 caller_38 gridspace_thanks#you too thank you#
+0036 agent_55 gridspace_acknowledgement gridspace_closing#bye#

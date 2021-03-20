@@ -1,0 +1,12 @@
+0000 caller_23 gridspace_greeting#hello#
+0001 agent_24 gridspace_greeting gridspace_thanks#thank you for calling harper valley#
+0002 agent_24 gridspace_greeting gridspace_open_question#my name is david how can i help you today#
+0003 caller_23 gridspace_response gridspace_confirm_data#hi my name is robert brown i lost my credit card can you send me a new one#
+0004 agent_24 gridspace_confirm_data gridspace_yes_response#yes and you said uh it was your credit card#
+0005 caller_23 gridspace_yes_response#yes my credit card#
+0006 agent_24 gridspace_other gridspace_procedure_explanation#okay i ordered your replacement card#
+0007 agent_24 gridspace_open_question#is there anything else i can help you with#
+0008 caller_23 gridspace_thanks gridspace_other#that's all i needed thank you#
+0009 agent_24 gridspace_closing#thank you for calling you have a great day#
+0010 caller_23 gridspace_closing#same to you#
+0011 agent_24 gridspace_closing#bye#

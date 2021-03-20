@@ -1,0 +1,13 @@
+0000 agent_22 gridspace_greeting#hello this is harper valley national bank my name is david#
+0001 agent_22 gridspace_greeting gridspace_open_question#how can i help you today#
+0002 caller_9 gridspace_response gridspace_greeting#hi my name is#
+0003 caller_9 gridspace_response gridspace_greeting#hi my name is james rodriguez#
+0004 caller_9 gridspace_data_question gridspace_other#i just wanted to ask what the local branch hours are#
+0005 agent_22 gridspace_acknowledgement#okay#
+0006 agent_22 gridspace_acknowledgement gridspace_confirm_data#just one one minute please#
+0007 agent_22 gridspace_confirm_data gridspace_bear_with_me#okay the branch hours are nine thirty a m till#
+0008 agent_22 gridspace_acknowledgement gridspace_confirm_data#five p m#
+0009 caller_9 gridspace_other#alright that's all that i needed today#
+0010 agent_22 gridspace_open_question#okay is there anything else at all i can help you with#
+0011 caller_9 gridspace_thanks gridspace_other#nope that was all i needed today thank you very much#
+0012 agent_22 gridspace_other#you're welcome thank you for calling and have a great day#

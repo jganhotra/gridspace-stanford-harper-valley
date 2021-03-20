@@ -1,0 +1,14 @@
+0000 agent_35 gridspace_greeting#hello this is harper valley national bank my name is david how can i help you today#
+0001 caller_40 gridspace_response gridspace_problem_description#hi my name is robert williams#
+0002 caller_40 gridspace_response gridspace_problem_description#i would like to schedule an appointment#
+0003 agent_35 gridspace_data_question gridspace_yes_response#okay you want to schedule an appointment#
+0004 agent_35 gridspace_data_question#what day would you like for your appointment#
+0005 caller_40 gridspace_data_communication gridspace_problem_description#tuesday#
+0006 agent_35 gridspace_data_question#tuesday what time would you like for your appointment#
+0007 caller_40 gridspace_response gridspace_data_response#four thirty#
+0008 agent_35 gridspace_other gridspace_confirm_data#four thirty pm#
+0009 caller_40 gridspace_yes_response#yes#
+0010 agent_35 gridspace_acknowledgement#okay#
+0011 agent_35 gridspace_other gridspace_open_question#your appointment has been scheduled for tuesday at four thirty pm uhm is there anything else i can help you with#
+0012 caller_40 gridspace_thanks gridspace_other#no that's gonna do it actually thank you#
+0013 agent_35 gridspace_other gridspace_closing#uh huh thank you for calling have a great day#

@@ -1,0 +1,12 @@
+0000 agent_17 gridspace_greeting#hello this is harper valley national bank my name is robert how can i help you today#
+0001 caller_59 gridspace_greeting#yes my name is mary wilson#
+0002 caller_59 gridspace_greeting gridspace_problem_description#i need to check my account balance#
+0003 agent_17 gridspace_other gridspace_yes_response#oh sure i can help you with that#
+0004 agent_17 gridspace_data_question#uh which account would you like to check#
+0005 caller_59 gridspace_data_response gridspace_problem_description#my checking account#
+0006 agent_17 gridspace_acknowledgement gridspace_yes_response#okay#
+0007 agent_17 gridspace_other gridspace_open_question#so your checking account balance is fifty nine dollars is there anything else i can help you with#
+0008 caller_59 gridspace_other gridspace_problem_description#uhm no i think that's all for today#
+0009 agent_17 gridspace_thanks gridspace_closing#okay thank you for calling have a great day#
+0010 agent_17 gridspace_closing#bye now#
+0011 caller_59 gridspace_thanks gridspace_closing#you too bye bye#

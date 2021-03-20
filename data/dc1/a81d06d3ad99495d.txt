@@ -1,0 +1,23 @@
+0000 agent_22 gridspace_greeting#hello this is harper valley national bank my name is linda how can i help you today#
+0001 caller_29 gridspace_greeting gridspace_problem_description#hi my name is elizabeth jones i would like to pay a bill#
+0002 agent_22 gridspace_data_question gridspace_acknowledgement#okay#
+0003 agent_22 gridspace_data_question#and what is the company name#
+0004 caller_29 gridspace_response#the company is fossil gas#
+0005 agent_22 gridspace_data_question#what is the company address#
+0006 caller_29 gridspace_response#the address is#
+0007 caller_29 gridspace_response#four two nine#
+0008 caller_29 gridspace_response#first street#
+0009 agent_22 gridspace_data_question#what town#
+0010 caller_29 gridspace_response#forest ranch#
+0011 agent_22 gridspace_data_question gridspace_confirm_data#forest branch#
+0012 agent_22 gridspace_acknowledgement#okay#
+0013 caller_29 gridspace_response#ranch#
+0014 agent_22 gridspace_data_question#what is the state#
+0015 caller_29 gridspace_response gridspace_other#california#
+0016 caller_29 gridspace_response gridspace_data_response#and the zip code's four nine#
+0017 caller_29 gridspace_response gridspace_other#five five nine#
+0018 agent_22 gridspace_data_question gridspace_other#and what is the bill amount#
+0019 caller_29 gridspace_response gridspace_other#the amount of the bill is one hundred and forty five dollars#
+0020 agent_22 gridspace_open_question#okay is there anything else i can help you with#
+0021 agent_22 gridspace_other gridspace_closing#thank you for calling have a great day#
+0022 caller_29 gridspace_response gridspace_other#no#

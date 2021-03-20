@@ -1,0 +1,33 @@
+0000 agent_54 gridspace_greeting#hello this is harper valley national bank my name is mary how can i help you today#
+0001 caller_17 gridspace_greeting gridspace_problem_description#um hi my name is mary davis uh i need i will like to have a new check sent to my home address#
+0002 agent_54 gridspace_data_question gridspace_confirm_data#okay a new checkbook#
+0003 caller_17 gridspace_filler_disfluency gridspace_problem_description#yeah#
+0004 agent_54 gridspace_data_question#what is your address#
+0005 caller_17 gridspace_data_communication gridspace_data_response#so my address is three four five main street#
+0006 caller_17 gridspace_data_communication gridspace_data_response#the city is harper valley#
+0007 caller_17 gridspace_response gridspace_data_response#and the state is california#
+0008 caller_17 gridspace_data_communication gridspace_data_response#and the zip is nine one two four nine#
+0009 agent_54 gridspace_acknowledgement gridspace_data_response#okay#
+0010 agent_54 gridspace_data_question gridspace_data_response#can you repeat that zip code#
+0011 caller_17 gridspace_data_response#yes it's nine one two four nine#
+0012 agent_54 gridspace_data_response#nine one four two nine#
+0013 caller_17 gridspace_other gridspace_data_response#no nine one#
+0014 caller_17 gridspace_data_response#two four nine#
+0015 agent_54 gridspace_acknowledgement gridspace_confirm_data#okay nine one#
+0016 agent_54 gridspace_confirm_data#two four nine#
+0017 caller_17 gridspace_yes_response#yeah#
+0018 agent_54 gridspace_acknowledgement#okay#
+0019 agent_54 gridspace_filler_disfluency gridspace_bear_with_me#i have#
+0020 agent_54 gridspace_data_question gridspace_data_response#three four five main street#
+0021 caller_17 gridspace_yes_response#yes#
+0022 agent_54 gridspace_filler_disfluency#harper valley#
+0023 caller_17 gridspace_other gridspace_filler_disfluency#and#
+0024 agent_54 gridspace_confirm_data#california#
+0025 caller_17 gridspace_yes_response gridspace_problem_description#yes harper valley yes#
+0026 agent_54 gridspace_confirm_data gridspace_data_response#nine one two four nine#
+0027 caller_17 gridspace_yes_response gridspace_data_response#four nine yes#
+0028 agent_54 gridspace_open_question#okay a new check book has been sent to your home address is there anything else i can help you with#
+0029 caller_17 gridspace_thanks#uh no that's all i need for today thank you#
+0030 agent_54 gridspace_closing#alright thank you for calling have a great day#
+0031 caller_17 gridspace_closing#you too bye#
+0032 agent_54 gridspace_closing#mmm bye#

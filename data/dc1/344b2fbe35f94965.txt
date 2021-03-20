@@ -1,0 +1,32 @@
+0000 agent_59 gridspace_greeting#hello#
+0001 agent_59 gridspace_greeting gridspace_open_question#this is harper valley national bank my name is miss mary how can i help you today#
+0002 caller_22 gridspace_other gridspace_greeting#hi my name is jennifer johnson i would like to pay a bill#
+0003 agent_59 gridspace_other gridspace_confirm_data#okay pay a bill#
+0004 agent_59 gridspace_data_question#okay what is the name of your company#
+0005 caller_22 gridspace_other gridspace_data_response#the company is smart electic#
+0006 agent_59 gridspace_thanks gridspace_confirm_data#k smart electric#
+0007 caller_22 gridspace_response#it's smart and then e l e c t i c#
+0008 agent_59 gridspace_acknowledgement#okay#
+0009 agent_59 gridspace_data_question#and the address#
+0010 caller_22 gridspace_problem_description gridspace_data_response#the address is three eighty two main street#
+0011 caller_22 gridspace_data_communication gridspace_data_response#forest ranch oregon#
+0012 caller_22 gridspace_data_communication gridspace_data_response#eight four five nine one#
+0013 agent_59 gridspace_other#i'm sorry i'm on forest street i'm sorry what goes next#
+0014 agent_59 gridspace_data_question gridspace_confirm_data#main street then forest street#
+0015 caller_22 gridspace_problem_description gridspace_data_response#three eight two main street#
+0016 caller_22 gridspace_other gridspace_data_response#forest ranch#
+0017 agent_59 gridspace_other#okay#
+0018 agent_59 gridspace_other gridspace_confirm_data#forest ranch#
+0019 agent_59 gridspace_other gridspace_acknowledgement#okay#
+0020 caller_22 gridspace_other gridspace_yes_response#yes#
+0021 agent_59 gridspace_other#okay#
+0022 agent_59 gridspace_other#you said oregon#
+0023 caller_22 gridspace_other#oregon#
+0024 caller_22 gridspace_other gridspace_confirm_data#eight four five nine one#
+0025 agent_59 gridspace_acknowledgement gridspace_other#eight four five#
+0026 caller_22 gridspace_response gridspace_problem_description#the amount of the bill the amount of the bill is one hundred and seventeen dollars#
+0027 agent_59 gridspace_data_question gridspace_filler_disfluency#nine one#
+0028 agent_59 gridspace_data_question#okay and what is the amount#
+0029 agent_59 gridspace_data_question gridspace_procedure_explanation#you would like to pay today#
+0030 caller_22 gridspace_other gridspace_thanks#no#
+0031 agent_59 gridspace_open_question#okay is there anything else i can help with today#

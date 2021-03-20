@@ -1,0 +1,11 @@
+0000 agent_54 gridspace_greeting#hello this is harper valley national bank my name is linda how can i help you today#
+0001 caller_52 gridspace_greeting#hi my name is elizabeth johnson#
+0002 caller_52 gridspace_greeting gridspace_problem_description#i would like to schedule an appointment#
+0003 agent_54 gridspace_data_question#okay what day would you like for your appointment#
+0004 caller_52 gridspace_response gridspace_data_response#monday#
+0005 agent_54 gridspace_data_question gridspace_procedure_explanation#monday okay#
+0006 agent_54 gridspace_data_question#what time would you like for your appointment#
+0007 caller_52 gridspace_response gridspace_data_response#eleven forty five a m#
+0008 agent_54 gridspace_open_question#okay your appointment has been scheduled for monday at eleven forty five a m is there anything else i can help you with#
+0009 caller_52 gridspace_other#no#
+0010 agent_54 gridspace_thanks gridspace_closing#okay thank you for calling have a great day#

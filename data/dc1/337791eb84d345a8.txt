@@ -1,0 +1,3 @@
+0000 agent_41 gridspace_greeting#hello this is harper national#
+0001 agent_41 gridspace_greeting#bank my name is linda how can i help you today#
+0002 caller_9 gridspace_greeting#hi linda my name is michael williams and i need to ask what are the local branch hours#

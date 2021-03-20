@@ -1,0 +1,22 @@
+0000 agent_59 gridspace_greeting#hello#
+0001 agent_59 gridspace_greeting#this is harper valley national bank my name is miss david#
+0002 agent_59 gridspace_greeting#how can i help you today#
+0003 caller_35 gridspace_response gridspace_problem_description#hi my name is patricia jones i lost my credit card um can you send me a new one#
+0004 agent_59 gridspace_acknowledgement#sure can#
+0005 agent_59 gridspace_other gridspace_acknowledgement#uh replace#
+0006 agent_59 gridspace_other gridspace_yes_response#your credit card#
+0007 caller_35 gridspace_response#yeah my credit card#
+0008 agent_59 gridspace_procedure_explanation#okay i have ordered your new replacement you should probably get it with three to five business days#
+0009 agent_59 gridspace_open_question#is there anything else i can do to help you#
+0010 caller_35 gridspace_thanks gridspace_acknowledgement#okay thanks#
+0011 agent_59 gridspace_other gridspace_closing#today#
+0012 caller_35 gridspace_other gridspace_problem_description#uhm no that'll do it that was it for you today just the card#
+0013 agent_59 gridspace_other gridspace_closing#i'm sorry to hear that you#
+0014 agent_59 gridspace_other gridspace_closing#lost it#
+0015 caller_35 gridspace_other#yeah it was a rough night#
+0016 agent_59 gridspace_other gridspace_acknowledgement#okay well um#
+0017 agent_59 gridspace_other gridspace_closing#if i can't do anything else for you today then i'll just let you go hey you have a great day#
+0018 agent_59 gridspace_closing#bye bye#
+0019 caller_35 gridspace_acknowledgement gridspace_closing#alright yeah#
+0020 agent_59 gridspace_closing#bye#
+0021 caller_35 gridspace_thanks gridspace_closing#thanks you too bye#

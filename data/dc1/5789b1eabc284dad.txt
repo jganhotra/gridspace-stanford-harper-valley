@@ -1,0 +1,23 @@
+0000 agent_33 gridspace_greeting gridspace_open_question#hello this is harper valley national bank my name is james how can i help you today#
+0001 caller_48 gridspace_greeting gridspace_problem_description#hi my name is david rodriguez#
+0002 agent_33 gridspace_acknowledgement#uh huh#
+0003 caller_48 gridspace_problem_description#i need to order a new checkbook i need a new checkbook#
+0004 agent_33 gridspace_data_question gridspace_confirm_data#okay i can do that for you miss rodriguez uh#
+0005 agent_33 gridspace_data_question#can i please have your address what's your address#
+0006 caller_48 gridspace_data_response#yes my address is eight two one main street#
+0007 caller_48 gridspace_data_response#harper valley california#
+0008 caller_48 gridspace_data_communication gridspace_data_response#eight one two one eight#
+0009 agent_33 gridspace_acknowledgement gridspace_confirm_data#okay#
+0010 agent_33 gridspace_data_question gridspace_confirm_data#again what's your zip code#
+0011 caller_48 gridspace_data_response#zip code is eight one two one eight#
+0012 agent_33 gridspace_confirm_data#eight one two one eight and what's your address can you repeat your address once more#
+0013 caller_48 gridspace_data_question gridspace_response#yes it is eight two one main street#
+0014 agent_33 gridspace_acknowledgement gridspace_confirm_data#okay#
+0015 caller_48 gridspace_data_question gridspace_bear_with_me#harper valley california#
+0016 caller_48 gridspace_confirm_data#eight one two one eight#
+0017 agent_33 gridspace_open_question#is there anything else i can help you with today#
+0018 caller_48 gridspace_other gridspace_open_question#no that's all i need help with today#
+0019 agent_33 gridspace_other gridspace_open_question#okay thank you for calling harper valley national bank and i hope you have yourself a wonderful rest of your day ma'am#
+0020 caller_48 gridspace_data_question gridspace_thanks#thank you you too#
+0021 agent_33 gridspace_closing#bye bye#
+0022 caller_48 gridspace_closing#bye#

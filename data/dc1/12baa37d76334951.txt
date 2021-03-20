@@ -1,0 +1,13 @@
+0000 caller_53 gridspace_greeting#hi my name is uh michael wilson i'd like to transfer money between my accounts#
+0001 agent_39 gridspace_bear_with_me#alright one second#
+0002 agent_39 gridspace_data_question#and what is the transfer amount#
+0003 caller_53 gridspace_data_response#uh the amount's going to be ninety four dollars#
+0004 agent_39 gridspace_data_question gridspace_thanks#thank you for that and what is the source account#
+0005 caller_53 gridspace_data_response#uh it will be coming from my checking account#
+0006 agent_39 gridspace_data_question#thank you and what is the destination account#
+0007 caller_53 gridspace_data_response#to my savings account#
+0008 agent_39 gridspace_data_question gridspace_bear_with_me#your savings one second#
+0009 agent_39 gridspace_procedure_explanation gridspace_problem_description#alright and ninety four dollars has been transferred from your checking account to your savings account um#
+0010 agent_39 gridspace_open_question#is there anything else i can help you with#
+0011 caller_53 gridspace_thanks gridspace_other#no that'll be it thank you#
+0012 agent_39 gridspace_thanks gridspace_closing#thank you for calling have a good day#

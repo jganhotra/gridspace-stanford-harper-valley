@@ -1,0 +1,25 @@
+0000 agent_35 gridspace_greeting#hello this is harper valley national bank my name is linda how can i help you today#
+0001 caller_39 gridspace_greeting#hi my name is john#
+0002 caller_39 gridspace_greeting gridspace_filler_disfluency#um#
+0003 caller_39 gridspace_problem_description#i would like to pay a bill#
+0004 agent_35 gridspace_data_question gridspace_other#okay you want to pay a bill#
+0005 agent_35 gridspace_data_question#what is the company name#
+0006 caller_39 gridspace_other gridspace_yes_response#yes#
+0007 caller_39 gridspace_response gridspace_data_response#company name is smart#
+0008 caller_39 gridspace_response#electric um#
+0009 caller_39 gridspace_response gridspace_data_communication#e l e c t i c#
+0010 agent_35 gridspace_data_question gridspace_other#okay smart electic and what is the company address#
+0011 caller_39 gridspace_data_response#two six four#
+0012 caller_39 gridspace_data_response#first street#
+0013 caller_39 gridspace_data_communication gridspace_data_response#comma comma uhm#
+0014 caller_39 gridspace_data_communication#harper valley h a r p e r v a l l e y comma#
+0015 caller_39 gridspace_response gridspace_other#california state comma nine four zero five nine#
+0016 agent_35 gridspace_data_question gridspace_other#i'm sorry can you say the zip code again#
+0017 caller_39 gridspace_response gridspace_data_response#it is nine four zero#
+0018 agent_35 gridspace_acknowledgement gridspace_other#five nine okay alright so the address is two six four first street harper valley california nine four zero five nine#
+0019 caller_39 gridspace_thanks gridspace_data_response#five nine#
+0020 agent_35 gridspace_data_question gridspace_open_question#uhm what is the bill amount#
+0021 caller_39 gridspace_response gridspace_other#it is sixty nine dollars#
+0022 agent_35 gridspace_open_question#okay we will send your payment to smart electric uhm is there anything else i can help you with#
+0023 caller_39 gridspace_thanks#that is it thank you so much#
+0024 agent_35 gridspace_other#you're welcome thank you for calling have a great day#

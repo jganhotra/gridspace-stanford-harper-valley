@@ -1,0 +1,15 @@
+0000 agent_60 gridspace_greeting gridspace_open_question#hello this is harper valley national bank my name is jennifer how can i help you#
+0001 caller_22 gridspace_greeting gridspace_problem_description#hi my name is jennifer jones i would like to transfer money between my accounts#
+0002 agent_60 gridspace_other gridspace_acknowledgement#okay#
+0003 agent_60 gridspace_other gridspace_bear_with_me#give me just a second#
+0004 agent_60 gridspace_filler_disfluency#sure#
+0005 caller_22 gridspace_problem_description#from my savings account to my checking account#
+0006 agent_60 gridspace_acknowledgement gridspace_filler_disfluency#uh huh#
+0007 agent_60 gridspace_filler_disfluency#oh#
+0008 agent_60 gridspace_data_question#savings to your checking alright and what's the transfer amount#
+0009 caller_22 gridspace_other gridspace_problem_description#the amount is one hundred and forty seven dollars#
+0010 agent_60 gridspace_acknowledgement#alright#
+0011 caller_22 gridspace_acknowledgement gridspace_filler_disfluency#mm hmm#
+0012 agent_60 gridspace_open_question#alright is there anything else i can help you with today#
+0013 caller_22 gridspace_response gridspace_other#no that's all#
+0014 agent_60 gridspace_thanks gridspace_closing#alright well thank you for calling harper valley national bank have a great day#

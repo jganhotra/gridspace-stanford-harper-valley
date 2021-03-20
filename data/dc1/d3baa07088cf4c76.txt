@@ -1,0 +1,29 @@
+0000 agent_33 gridspace_greeting gridspace_open_question#hello this is harper valley national bank my name is patricia how can i help you today#
+0001 agent_33 gridspace_open_question#hello this is harper valley national bank my name is patricia how can i help you today#
+0002 caller_48 gridspace_response gridspace_other#hello#
+0003 agent_33 gridspace_acknowledgement gridspace_other#i can hear you#
+0004 caller_48 gridspace_response#can you hear me#
+0005 caller_48 gridspace_response gridspace_other#hello#
+0006 agent_33 gridspace_other#hello my name is patricia#
+0007 caller_48 gridspace_response gridspace_other#okay yes my#
+0008 caller_48 gridspace_other gridspace_yes_response#yes can you hello my name is mary johnson#
+0009 agent_33 gridspace_open_question#okay how can i help you today#
+0010 caller_48 gridspace_filler_disfluency gridspace_problem_description#i would like#
+0011 caller_48 gridspace_data_response#would like to pay a bill#
+0012 agent_33 gridspace_data_question#okay what's the company name#
+0013 caller_48 gridspace_data_communication gridspace_data_response#fossil gas f o s s i l g a s#
+0014 agent_33 gridspace_data_question#okay and what is the company address#
+0015 caller_48 gridspace_data_response#six five seven first street#
+0016 caller_48 gridspace_data_communication gridspace_data_response#in forest ranch two words forest like where all the animals live#
+0017 caller_48 gridspace_other#ranch#
+0018 caller_48 gridspace_other#and that is in oregon#
+0019 agent_33 gridspace_data_question gridspace_other#okay what's the zip code six what#
+0020 caller_48 gridspace_other#zip code two six four five zero#
+0021 caller_48 gridspace_response gridspace_other#two six four five zero#
+0022 agent_33 gridspace_data_question gridspace_other#okay uhm i have just uh what's the bill amount#
+0023 caller_48 gridspace_other#one hundred forty nine#
+0024 agent_33 gridspace_other gridspace_acknowledgement#okay#
+0025 agent_33 gridspace_procedure_explanation gridspace_open_question#okay i have submitted uh your bill payment to fossil gas is there anything else i can help you with#
+0026 caller_48 gridspace_thanks#no sir that's everything thank you so much#
+0027 agent_33 gridspace_closing#okay thank you for calling have a great day#
+0028 caller_48 gridspace_closing#you too bye bye#

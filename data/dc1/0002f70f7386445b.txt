@@ -1,0 +1,17 @@
+0000 agent_46 gridspace_greeting#hello this is harper valley national bank#
+0001 agent_46 gridspace_greeting#my name is elizabeth#
+0002 agent_46 gridspace_greeting#how can i help you today#
+0003 caller_44 gridspace_greeting gridspace_problem_description#hi#
+0004 caller_44 gridspace_greeting gridspace_problem_description#my name is patricia brown#
+0005 caller_44 gridspace_problem_description#i lost my debit card#
+0006 caller_44 gridspace_problem_description#can you send me a new one#
+0007 agent_46 gridspace_acknowledgement gridspace_confirm_data#which card would you like to replace#
+0008 caller_44 gridspace_problem_description#my#
+0009 caller_44 gridspace_problem_description#debit card#
+0010 agent_46 gridspace_data_question gridspace_other#can you repeat that please#
+0011 caller_44 gridspace_yes_response gridspace_problem_description#yes#
+0012 caller_44 gridspace_problem_description#my debit card#
+0013 agent_46 gridspace_open_question#is there anything else i can help you with today#
+0014 caller_44 gridspace_other gridspace_problem_description#no that was going to be it#
+0015 agent_46 gridspace_thanks gridspace_closing#thank you for calling have a great day#
+0016 caller_44 gridspace_filler_disfluency gridspace_closing#bye#

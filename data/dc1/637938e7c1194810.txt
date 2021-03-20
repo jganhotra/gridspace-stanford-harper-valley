@@ -1,0 +1,8 @@
+0000 agent_21 gridspace_greeting gridspace_open_question#hello this is harper valley national name is john how can i help you today#
+0001 caller_20 gridspace_greeting gridspace_problem_description#hi my name is elizabeth johnson i would like to transfer money between my accounts#
+0002 agent_21 gridspace_data_question gridspace_other#sure how much money between which accounts#
+0003 caller_20 gridspace_greeting gridspace_problem_description#uh from my savings account to my checking account and the amount is one hundred dollars#
+0004 agent_21 gridspace_open_question#it's done anything else today#
+0005 agent_21 gridspace_other#mmm#
+0006 caller_20 gridspace_other gridspace_problem_description#nope that's all i need#
+0007 agent_21 gridspace_thanks gridspace_closing#thank you so much you have a good one#

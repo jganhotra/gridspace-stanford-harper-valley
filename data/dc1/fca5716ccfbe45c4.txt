@@ -1,0 +1,28 @@
+0000 agent_48 gridspace_greeting#hi this is harper valley national bank my name is jennifer how can i help you today#
+0001 caller_57 gridspace_greeting gridspace_problem_description#hi my name is jennifer brown#
+0002 caller_57 gridspace_problem_description#i need a new checkbook#
+0003 agent_48 gridspace_thanks gridspace_bear_with_me#okay i'd be happy to help you with that today one moment#
+0004 agent_48 gridspace_data_question#what is your address#
+0005 caller_57 gridspace_filler_disfluency gridspace_problem_description#sure#
+0006 caller_57 gridspace_response gridspace_problem_description#my address is#
+0007 caller_57 gridspace_response gridspace_data_response#five eight three#
+0008 agent_48 gridspace_filler_disfluency#mhm#
+0009 caller_57 gridspace_other gridspace_yes_response#first street#
+0010 agent_48 gridspace_other gridspace_filler_disfluency#that first#
+0011 caller_57 gridspace_response gridspace_other#forest#
+0012 agent_48 gridspace_data_question gridspace_other#is that first spelled f i r s t or the number one#
+0013 caller_57 gridspace_data_communication gridspace_confirm_data#f i r s t#
+0014 agent_48 gridspace_acknowledgement#okay#
+0015 agent_48 gridspace_data_question#and the state please#
+0016 caller_57 gridspace_data_communication gridspace_data_response#and then forest ranch#
+0017 agent_48 gridspace_acknowledgement#mhm#
+0018 caller_57 gridspace_acknowledgement gridspace_data_communication#oregon#
+0019 agent_48 gridspace_acknowledgement#mhm#
+0020 caller_57 gridspace_filler_disfluency#four#
+0021 caller_57 gridspace_data_communication gridspace_data_response#three five two seven#
+0022 agent_48 gridspace_data_question#okay a new checkbook has been sent to your home address#
+0023 agent_48 gridspace_open_question#is there anything else i can help you with today#
+0024 caller_57 gridspace_thanks gridspace_other#no thank you that was all#
+0025 agent_48 gridspace_thanks gridspace_closing#okay thank you for calling have a great day#
+0026 agent_48 gridspace_acknowledgement gridspace_thanks#bye#
+0027 caller_57 gridspace_closing#bye#

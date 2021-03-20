@@ -1,0 +1,26 @@
+0000 agent_45 gridspace_greeting#hello this is harper valley national bank my name is jennifer how can i help you today#
+0001 caller_44 gridspace_response gridspace_problem_description#hi my name is robert williams#
+0002 caller_44 gridspace_problem_description#i need a new checkbook#
+0003 agent_45 gridspace_data_question#what is your address#
+0004 caller_44 gridspace_problem_description#my address is#
+0005 caller_44 gridspace_other gridspace_problem_description#three four nine#
+0006 caller_44 gridspace_other gridspace_problem_description#main street#
+0007 agent_45 gridspace_other#three four nine main street#
+0008 caller_44 gridspace_other gridspace_problem_description#forest ranch#
+0009 caller_44 gridspace_problem_description#california#
+0010 agent_45 gridspace_thanks gridspace_acknowledgement#forest ranch california#
+0011 caller_44 gridspace_acknowledgement gridspace_other#six#
+0012 caller_44 gridspace_other#four#
+0013 caller_44 gridspace_other gridspace_acknowledgement#seven#
+0014 caller_44 gridspace_other#four seven#
+0015 agent_45 gridspace_data_question#can you repeat that zip code#
+0016 caller_44 gridspace_other gridspace_acknowledgement#yeah of course#
+0017 caller_44 gridspace_confirm_data gridspace_data_response#it's six four seven#
+0018 caller_44 gridspace_other#four seven#
+0019 agent_45 gridspace_confirm_data#six four seven four seven#
+0020 agent_45 gridspace_data_question gridspace_other#a new check book has been sent to your home address#
+0021 agent_45 gridspace_open_question#is there anything else i can help you with#
+0022 caller_44 gridspace_other#no that was gonna be it#
+0023 agent_45 gridspace_closing#thank you for calling have a great day#
+0024 caller_44 gridspace_greeting gridspace_thanks#bye#
+0025 agent_45 gridspace_closing#bye#

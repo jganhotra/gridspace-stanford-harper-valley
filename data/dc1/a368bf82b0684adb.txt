@@ -1,0 +1,12 @@
+0000 agent_17 gridspace_greeting#hello this is happy valley national bank my name is mary how can i help you today#
+0001 caller_57 gridspace_greeting gridspace_problem_description#hi my name is robert brown i lost my debit card#
+0002 agent_17 gridspace_confirm_data gridspace_procedure_explanation#oh sure i can help you with that uh which#
+0003 caller_57 gridspace_problem_description#can you send me a new one#
+0004 agent_17 gridspace_confirm_data gridspace_yes_response#yes#
+0005 agent_17 gridspace_confirm_data#which card would you like to replace#
+0006 caller_57 gridspace_response gridspace_data_response#my debit card#
+0007 agent_17 gridspace_acknowledgement gridspace_confirm_data#okay#
+0008 agent_17 gridspace_confirm_data gridspace_procedure_explanation#so i have order you a replacement debit card and you should be able to receive it in three to five business days#
+0009 agent_17 gridspace_open_question#is there anything else i can help you with#
+0010 caller_57 gridspace_thanks gridspace_other#no thank you that's all#
+0011 agent_17 gridspace_closing#thank you for calling you have a great day#

@@ -1,0 +1,15 @@
+0000 agent_6 gridspace_greeting#hello this is harper valley national bank my name is mary how can i help you today#
+0001 caller_43 gridspace_greeting gridspace_problem_description#hi my name is elizabeth garcia i would like to pay a bill#
+0002 agent_6 gridspace_data_question#what is the company name#
+0003 caller_43 gridspace_response gridspace_problem_description#fossil gas#
+0004 agent_6 gridspace_data_question#what is the company address#
+0005 caller_43 gridspace_response gridspace_data_response#six two six#
+0006 caller_43 gridspace_response gridspace_data_response#first street#
+0007 caller_43 gridspace_response gridspace_data_response#and that's in harper valley california#
+0008 caller_43 gridspace_response gridspace_data_response#seven six six one three#
+0009 agent_6 gridspace_data_question#what is the bill amount#
+0010 caller_43 gridspace_response gridspace_data_response#the amount of the bill is one hundred twenty seven dollars#
+0011 agent_6 gridspace_data_question gridspace_open_question#we will send your payment to fossil gas is there anything else i can help you with#
+0012 caller_43 gridspace_other#no that should be it#
+0013 agent_6 gridspace_thanks gridspace_closing#thank you for calling have a great day#
+0014 caller_43 gridspace_thanks gridspace_closing#you too bye bye#

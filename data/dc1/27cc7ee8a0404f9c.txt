@@ -1,0 +1,13 @@
+0000 agent_53 gridspace_greeting gridspace_open_question#hello this is harper valley national bank my name is michael how can i assist you today#
+0001 caller_59 gridspace_greeting gridspace_problem_description#hi my name is miss wilson and i lost my credit card today can you send me a new one in the mail today#
+0002 agent_53 gridspace_other gridspace_confirm_data#yeah of course you said your credit card#
+0003 agent_53 gridspace_open_question#okay i've ordered your replacement credit card is there anything else i can help you with#
+0004 caller_59 gridspace_yes_response#yes#
+0005 caller_59 gridspace_problem_description#can you cancel my old one too#
+0006 agent_53 gridspace_acknowledgement#okay#
+0007 agent_53 gridspace_other gridspace_procedure_explanation#and your old one has been canceled for ya#
+0008 caller_59 gridspace_thanks#okay thank you#
+0009 agent_53 gridspace_open_question#should be all set is there anything else i can help you with#
+0010 caller_59 gridspace_response gridspace_other#uhm that's all#
+0011 agent_53 gridspace_closing#alrighty then thank you for calling you have a great day#
+0012 caller_59 gridspace_closing#you too bye bye#

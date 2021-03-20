@@ -1,0 +1,49 @@
+0000 agent_59 gridspace_greeting#hello this is harper valley national bank#
+0001 agent_59 gridspace_greeting#my name is patricia how can i help you today#
+0002 caller_17 gridspace_problem_description#hi my name is michael i will like to reset my password#
+0003 agent_59 gridspace_other#can you repeat#
+0004 agent_59 gridspace_acknowledgement gridspace_other#this again#
+0005 caller_17 gridspace_problem_description#yes i would like to reset my password#
+0006 agent_59 gridspace_data_question#okay i'm sorry i couldn't hear really good okay your reset your password#
+0007 agent_59 gridspace_acknowledgement#okay#
+0008 agent_59 gridspace_data_question#uhm what is your phone number#
+0009 caller_17 gridspace_data_response#my phone number is two eight seven five seven#
+0010 agent_59 gridspace_acknowledgement gridspace_confirm_data#two#
+0011 agent_59 gridspace_other gridspace_confirm_data#two eight seven sorry five#
+0012 caller_17 gridspace_data_response#seven zero#
+0013 agent_59 gridspace_other gridspace_confirm_data#two eight seven five seven zero#
+0014 caller_17 gridspace_data_response#three six nine#
+0015 agent_59 gridspace_confirm_data#three six nine#
+0016 agent_59 gridspace_acknowledgement#okay#
+0017 caller_17 gridspace_other gridspace_problem_description#three five nine yes#
+0018 agent_59 gridspace_response gridspace_data_response#alright two eight seven five seven zero three six nine#
+0019 caller_17 gridspace_other gridspace_acknowledgement#three#
+0020 caller_17 gridspace_other#three six five nine#
+0021 agent_59 gridspace_other#i'm sorry i gotta back i'm sorry can you repeat that again#
+0022 caller_17 gridspace_acknowledgement#okay#
+0023 caller_17 gridspace_filler_disfluency#um#
+0024 caller_17 gridspace_other gridspace_procedure_explanation#i already submitted um#
+0025 caller_17 gridspace_other gridspace_problem_description#ah i remember really foreign number#
+0026 caller_17 gridspace_confirm_data gridspace_procedure_explanation#last digit is three six ninety five#
+0027 agent_59 gridspace_thanks gridspace_confirm_data#can you read the whole thing again#
+0028 agent_59 gridspace_other#i'm sorry those are on my phone and i can't hear that good#
+0029 caller_17 gridspace_filler_disfluency#uh um#
+0030 caller_17 gridspace_filler_disfluency gridspace_data_response#five um#
+0031 caller_17 gridspace_filler_disfluency gridspace_problem_description#it was just#
+0032 caller_17 gridspace_filler_disfluency#um#
+0033 caller_17 gridspace_data_question#i i could only i i can only um repeat the four digit number#
+0034 caller_17 gridspace_data_question#before last three digit number#
+0035 agent_59 gridspace_acknowledgement#okay#
+0036 agent_59 gridspace_other gridspace_acknowledgement#okay go ahead#
+0037 caller_17 gridspace_other#uh so three six#
+0038 caller_17 gridspace_other gridspace_filler_disfluency#five nine#
+0039 agent_59 gridspace_other#three#
+0040 agent_59 gridspace_response gridspace_other#six five nine#
+0041 agent_59 gridspace_acknowledgement#okay#
+0042 agent_59 gridspace_data_question gridspace_other#and reset password#
+0043 agent_59 gridspace_other#submit task#
+0044 agent_59 gridspace_other gridspace_open_question#is there anything else i can help you with#
+0045 caller_17 gridspace_other#uh no that's actually i need for today thank you#
+0046 agent_59 gridspace_other gridspace_closing#okay you have a great day#
+0047 caller_17 gridspace_closing#you too bye#
+0048 agent_59 gridspace_closing#bye bye#

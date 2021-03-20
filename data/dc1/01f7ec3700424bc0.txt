@@ -1,0 +1,10 @@
+0000 agent_34 gridspace_greeting#hello#
+0001 caller_37 gridspace_data_question gridspace_greeting#yes hello this is uh robert jones i would like to know uh what your local branch hours are please#
+0002 agent_34 gridspace_other gridspace_bear_with_me#okay one second please#
+0003 caller_37 gridspace_greeting#certainly#
+0004 agent_34 gridspace_data_response#the branch hours are nine thirty am to five p m#
+0005 caller_37 gridspace_thanks#okay thank you very much#
+0006 agent_34 gridspace_open_question#is there anything else i can help you with#
+0007 caller_37 gridspace_other gridspace_thanks#no i think that will be it thank you very much#
+0008 agent_34 gridspace_closing#thank you for calling have a great day#
+0009 caller_37 gridspace_closing#you too bye bye#

@@ -1,0 +1,24 @@
+0000 agent_56 gridspace_greeting#hello hello this is her for valley national bank my name is elizabeth how can i help you today#
+0001 caller_59 gridspace_filler_disfluency#um yes um#
+0002 caller_59 gridspace_filler_disfluency gridspace_problem_description#i want to um#
+0003 caller_59 gridspace_problem_description#i want to open a check um i wanted to order some check book#
+0004 agent_56 gridspace_data_question#okay what is your address#
+0005 caller_59 gridspace_data_response#my address is#
+0006 caller_59 gridspace_data_response#once two four five#
+0007 caller_59 gridspace_data_response#south street#
+0008 caller_59 gridspace_filler_disfluency gridspace_data_response#um#
+0009 caller_59 gridspace_data_response#california#
+0010 caller_59 gridspace_data_response#eleven twenty#
+0011 caller_59 gridspace_data_communication gridspace_data_response#three eight four#
+0012 agent_56 gridspace_confirm_data#eleven twenty three eight four#
+0013 agent_56 gridspace_data_question gridspace_other#can you repeat the zip code again#
+0014 caller_59 gridspace_yes_response#yes#
+0015 caller_59 gridspace_filler_disfluency gridspace_data_response#it is#
+0016 caller_59 gridspace_data_response#south street california eleven twenty two eight four#
+0017 agent_56 gridspace_confirm_data#eleven twenty so one one two zero eight four#
+0018 caller_59 gridspace_yes_response#yes#
+0019 agent_56 gridspace_data_question gridspace_confirm_data#okay a new checkbook has been sent to your home address#
+0020 caller_59 gridspace_yes_response gridspace_data_response#mkay#
+0021 agent_56 gridspace_open_question#is there anything else i can help you with#
+0022 agent_56 gridspace_thanks gridspace_closing#uh thank you for calling have a great day#
+0023 caller_59 gridspace_other gridspace_closing#uhm that's all#

@@ -1,0 +1,25 @@
+0000 agent_9 gridspace_greeting#hello this is harper valley national bank my name is robert how can i help you today#
+0001 caller_48 gridspace_greeting gridspace_problem_description#hi my name is patricia williams#
+0002 caller_48 gridspace_greeting gridspace_problem_description#i would like to pay a bill#
+0003 agent_9 gridspace_other#sure i'm happy to help you with that#
+0004 agent_9 gridspace_bear_with_me#one second please#
+0005 agent_9 gridspace_data_question#alright what is the company name#
+0006 caller_48 gridspace_response gridspace_data_response#the company is smart electic#
+0007 caller_48 gridspace_response gridspace_data_response#and electic is spelled#
+0008 caller_48 gridspace_data_communication gridspace_filler_disfluency#l e t i c#
+0009 agent_9 gridspace_data_question#alright what is the company address#
+0010 caller_48 gridspace_response gridspace_data_response#the address is seven eight six main street#
+0011 caller_48 gridspace_data_communication gridspace_data_response#forest ranch#
+0012 caller_48 gridspace_data_response gridspace_problem_description#california#
+0013 caller_48 gridspace_data_communication gridspace_data_response#seven five zero two#
+0014 agent_9 gridspace_data_question#i got everything up until california but can you please repeat the zip code please#
+0015 caller_48 gridspace_response gridspace_data_response#seven five#
+0016 caller_48 gridspace_data_communication gridspace_data_response#zero seven two#
+0017 agent_9 gridspace_data_question#alright and what is the bill amount#
+0018 caller_48 gridspace_data_response#the amount of the bill is eighty nine dollars#
+0019 agent_9 gridspace_confirm_data#eighty nine dollars understood#
+0020 agent_9 gridspace_procedure_explanation#alright we will send your payments to mark electric#
+0021 agent_9 gridspace_open_question#is there anything else i can help you with#
+0022 caller_48 gridspace_thanks gridspace_other#no that's all i needed help with thank you very much for your help#
+0023 agent_9 gridspace_closing#thank you for calling have a great day#
+0024 caller_48 gridspace_other gridspace_closing#you too bye bye#

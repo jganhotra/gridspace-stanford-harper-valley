@@ -1,0 +1,8 @@
+0000 agent_33 gridspace_greeting gridspace_open_question#bank my name is patricia how can i help you today#
+0001 caller_60 gridspace_response gridspace_greeting#hi patricia my name is michael miller uhm i lost my credit card can you send me a new one#
+0002 agent_33 gridspace_other#yeah i can do that for you which card would you like to replace#
+0003 caller_60 gridspace_response gridspace_data_response#uh my credit card#
+0004 agent_33 gridspace_open_question#i've ordered your replacement credit card is there anything else i can help you with#
+0005 caller_60 gridspace_other#nope that's all i needed#
+0006 agent_33 gridspace_thanks gridspace_closing#thank you for calling have a great day#
+0007 caller_60 gridspace_thanks gridspace_closing#you too thank you bye bye#

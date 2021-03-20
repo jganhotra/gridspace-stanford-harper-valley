@@ -1,0 +1,47 @@
+0000 agent_59 gridspace_greeting#hello#
+0001 agent_59 gridspace_greeting#this is harper valley national bank my name is miss robert how can i help you today#
+0002 caller_55 gridspace_greeting gridspace_problem_description#hi my name is patricia wilson uh i'd like to pay a bill#
+0003 agent_59 gridspace_data_question gridspace_acknowledgement#okay ms patricia um#
+0004 agent_59 gridspace_other#you would like to pay a bill okay i can help you with that#
+0005 agent_59 gridspace_data_question#uhm what's the company name#
+0006 caller_55 gridspace_acknowledgement gridspace_confirm_data#okay#
+0007 caller_55 gridspace_yes_response gridspace_problem_description#it's fossil gas#
+0008 agent_59 gridspace_other#fossil#
+0009 agent_59 gridspace_acknowledgement gridspace_other#is#
+0010 agent_59 gridspace_filler_disfluency#f#
+0011 agent_59 gridspace_other gridspace_acknowledgement#o l l#
+0012 agent_59 gridspace_other#i s#
+0013 caller_55 gridspace_data_communication gridspace_data_response#it's f o s s i l#
+0014 agent_59 gridspace_acknowledgement gridspace_other#f o#
+0015 agent_59 gridspace_data_communication gridspace_other#s s#
+0016 agent_59 gridspace_acknowledgement gridspace_filler_disfluency#i l#
+0017 agent_59 gridspace_acknowledgement#then gas#
+0018 caller_55 gridspace_acknowledgement gridspace_other#yes#
+0019 agent_59 gridspace_acknowledgement#okay#
+0020 agent_59 gridspace_filler_disfluency#um#
+0021 agent_59 gridspace_other#okay#
+0022 agent_59 gridspace_data_question#and their address#
+0023 caller_55 gridspace_data_response#is one six five#
+0024 caller_55 gridspace_data_communication gridspace_data_response#first street#
+0025 agent_59 gridspace_acknowledgement gridspace_confirm_data#first#
+0026 agent_59 gridspace_acknowledgement gridspace_confirm_data#okay#
+0027 caller_55 gridspace_data_communication gridspace_data_response#and that's in forest ranch oregon#
+0028 agent_59 gridspace_acknowledgement gridspace_other#forest#
+0029 agent_59 gridspace_acknowledgement#ranch#
+0030 agent_59 gridspace_data_question#okay and what's the zip code#
+0031 caller_55 gridspace_response gridspace_data_response#it's two nine four six eight#
+0032 agent_59 gridspace_other#two nine#
+0033 agent_59 gridspace_other gridspace_confirm_data#four six eight#
+0034 caller_55 gridspace_other#oh i'm sorry is two nine four six nine#
+0035 agent_59 gridspace_other gridspace_acknowledgement#two nine#
+0036 agent_59 gridspace_acknowledgement gridspace_other#four#
+0037 agent_59 gridspace_other gridspace_acknowledgement#six nine okay#
+0038 agent_59 gridspace_data_question#and what's the amount you wanna pay today#
+0039 caller_55 gridspace_acknowledgement gridspace_other#yes mhm#
+0040 caller_55 gridspace_response gridspace_other#the amount is ninety eight dollars#
+0041 agent_59 gridspace_acknowledgement gridspace_other#ninety#
+0042 agent_59 gridspace_filler_disfluency#k#
+0043 agent_59 gridspace_open_question#okay is there anything else i can do today to help you#
+0044 caller_55 gridspace_response#nope that's all#
+0045 agent_59 gridspace_closing#okay you have a great day#
+0046 caller_55 gridspace_thanks gridspace_closing#thank you you too bye bye#

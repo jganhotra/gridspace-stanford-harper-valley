@@ -1,0 +1,9 @@
+0000 agent_3 gridspace_greeting#hello this is harper valley national bank#
+0001 agent_3 gridspace_greeting#my name is glenda how can i help you today#
+0002 caller_57 gridspace_greeting gridspace_problem_description#hi my name is debbie#
+0003 caller_57 gridspace_other gridspace_problem_description#what are the local branch hours#
+0004 agent_3 gridspace_yes_response gridspace_data_response#they are nine thirty a m to five p m#
+0005 agent_3 gridspace_open_question#is there anything else i can help you with#
+0006 caller_57 gridspace_thanks#okay thank you#
+0007 agent_3 gridspace_other gridspace_closing#alright you too#
+0008 caller_57 gridspace_thanks#no that was all thank you#

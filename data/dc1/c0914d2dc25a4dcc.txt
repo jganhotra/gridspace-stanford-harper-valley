@@ -1,0 +1,10 @@
+0000 agent_38 gridspace_greeting gridspace_open_question#hello this is harper valley national bank my name is john how can i help you today#
+0001 caller_16 gridspace_other gridspace_problem_description#hi my name is linda garcia i lost my debit card can you send me a new one#
+0002 agent_38 gridspace_other#absolutely one moment let me clear your account out okay with you to replace uh was that a debit or credit card#
+0003 agent_38 gridspace_data_question gridspace_other#you wanted to oh okay#
+0004 caller_16 gridspace_response gridspace_yes_response#my debit card#
+0005 agent_38 gridspace_bear_with_me#alrighty perfect#
+0006 agent_38 gridspace_acknowledgement gridspace_bear_with_me#alright#
+0007 agent_38 gridspace_open_question#okay then you should be receiving your new debit card in the mail within seven to ten business working days uh is there anything else that i can help you with#
+0008 caller_16 gridspace_thanks#no that was it thank you very much#
+0009 agent_38 gridspace_closing#alright you have a wonderful day thank you for calling harper valley national#

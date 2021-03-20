@@ -1,0 +1,10 @@
+0000 agent_44 gridspace_greeting#hello this is happy valley national bank#
+0001 agent_44 gridspace_greeting#my name is mary how can i help you today#
+0002 caller_1 gridspace_greeting gridspace_problem_description#hi mary uh my name is elizabeth jones and i need to check my account balance#
+0003 agent_44 gridspace_data_question#okay which account would you like to check#
+0004 caller_1 gridspace_response gridspace_data_response#my checking account#
+0005 agent_44 gridspace_confirm_data gridspace_data_response#your checking account balance is seventy one dollars#
+0006 agent_44 gridspace_open_question#is there anything else i can help you with#
+0007 caller_1 gridspace_thanks#no that's it thank you#
+0008 agent_44 gridspace_other gridspace_closing#yep thank you for calling have a great day#
+0009 caller_1 gridspace_closing#you too#

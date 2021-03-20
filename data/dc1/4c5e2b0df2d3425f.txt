@@ -1,0 +1,15 @@
+0000 agent_59 gridspace_greeting#hello this is valley national bank my name is mary how can i help you today#
+0001 caller_29 gridspace_greeting gridspace_problem_description#hi my name is david brown#
+0002 agent_59 gridspace_other gridspace_open_question#how can i help you today#
+0003 caller_29 gridspace_response gridspace_problem_description#i would like to transfer money between my accounts#
+0004 agent_59 gridspace_data_question#transfer money transfer money okay and how much how much would you like to transfer#
+0005 caller_29 gridspace_response#forty five dollars is the amount#
+0006 agent_59 gridspace_other gridspace_bear_with_me#forty five dollars#
+0007 agent_59 gridspace_acknowledgement#okay#
+0008 agent_59 gridspace_other#to your savings or checking#
+0009 caller_29 gridspace_response gridspace_data_response#um from my checking account to my savings account#
+0010 agent_59 gridspace_acknowledgement gridspace_filler_disfluency#okay and um#
+0011 agent_59 gridspace_open_question#got that done is there anything else i can help you with today#
+0012 caller_29 gridspace_other#no#
+0013 agent_59 gridspace_closing#okay you have a great day#
+0014 caller_29 gridspace_thanks#thanks#

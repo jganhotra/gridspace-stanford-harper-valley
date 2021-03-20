@@ -1,0 +1,30 @@
+0000 agent_23 gridspace_greeting#hello this is harper valley national bank my name is linda how can i help you today#
+0001 caller_49 gridspace_greeting gridspace_data_response#hi my name is james miller#
+0002 caller_49 gridspace_problem_description#and i would like to pay a bill#
+0003 agent_23 gridspace_data_question#what is the company name#
+0004 caller_49 gridspace_response gridspace_data_response#the company is smart electric#
+0005 agent_23 gridspace_data_question#what is the company address#
+0006 caller_49 gridspace_data_response#the address is two six one main street#
+0007 caller_49 gridspace_data_communication gridspace_data_response#forest ranch california#
+0008 caller_49 gridspace_data_response#three one five two seven#
+0009 agent_23 gridspace_data_question#could you please repeat the address#
+0010 caller_49 gridspace_response gridspace_yes_response#yes#
+0011 caller_49 gridspace_response gridspace_other#that is#
+0012 caller_49 gridspace_other gridspace_data_response#two six one main street#
+0013 caller_49 gridspace_other#forest ranch california#
+0014 caller_49 gridspace_response gridspace_data_response#three one five two seven#
+0015 agent_23 gridspace_data_question#could you please repeat the zip code#
+0016 caller_49 gridspace_response gridspace_data_response#three one five#
+0017 caller_49 gridspace_response#two seven#
+0018 agent_23 gridspace_data_question gridspace_thanks#thank you what is the bill amount#
+0019 caller_49 gridspace_response#the amount of the bill is one hundred fifteen dollars#
+0020 agent_23 gridspace_other gridspace_confirm_data#one hundred and fifteen#
+0021 caller_49 gridspace_other#yes one five#
+0022 agent_23 gridspace_thanks#thank you#
+0023 agent_23 gridspace_confirm_data gridspace_procedure_explanation#we will send your payment to smart electric#
+0024 agent_23 gridspace_open_question#is there anything else i can help you with#
+0025 caller_49 gridspace_other#no that will be all for today#
+0026 agent_23 gridspace_closing#thank you for calling have a great day#
+0027 agent_23 gridspace_acknowledgement gridspace_closing#bye#
+0028 caller_49 gridspace_closing#you too#
+0029 caller_49 gridspace_acknowledgement gridspace_closing#bye#

@@ -1,0 +1,8 @@
+0000 agent_17 gridspace_greeting#hello this is harper valley national bank my name is joan how can i help you today#
+0001 caller_8 gridspace_greeting gridspace_problem_description#hi my name is james brown i lost my credit card can you send me a new one#
+0002 agent_17 gridspace_data_question#oh yes oh which card would you like to replace#
+0003 caller_8 gridspace_yes_response gridspace_problem_description#my credit card#
+0004 agent_17 gridspace_acknowledgement#okay#
+0005 agent_17 gridspace_procedure_explanation gridspace_open_question#so i have ordered your replacement credit card and you should be able to receive it in three to five business days is there anything else i can help you with#
+0006 agent_17 gridspace_thanks gridspace_closing#thank you for calling have a great day#
+0007 caller_8 gridspace_other gridspace_thanks#no thank you#

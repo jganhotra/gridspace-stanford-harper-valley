@@ -1,0 +1,11 @@
+0000 agent_17 gridspace_greeting#hello this is happy valley national bank my name is linda how can i help you today#
+0001 caller_0 gridspace_greeting#hi my name is james rodriguez#
+0002 caller_0 gridspace_problem_description#i would like to schedule an appointment#
+0003 agent_17 gridspace_data_question#sure i can help you with that uh what day would you like for what day would you like for your appointment#
+0004 agent_17 gridspace_confirm_data#okay tuesday#
+0005 caller_0 gridspace_response#tuesday please#
+0006 agent_17 gridspace_data_question#and what time would you lie for your appointment#
+0007 caller_0 gridspace_response#three forty five p m#
+0008 agent_17 gridspace_data_question gridspace_open_question#three forty five p m okay is there anything else i can help you with#
+0009 agent_17 gridspace_thanks gridspace_closing#okay thank you for calling have a great day#
+0010 caller_0 gridspace_response gridspace_other#no that was it#

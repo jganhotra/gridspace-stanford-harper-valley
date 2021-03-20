@@ -1,0 +1,22 @@
+0000 agent_42 gridspace_greeting#hello this is harper valley national bank my name is elizabeth how can i help you today#
+0001 caller_46 gridspace_greeting#hello#
+0002 caller_46 gridspace_greeting#hi#
+0003 caller_46 gridspace_greeting gridspace_problem_description#my name is jennifer wilson i need a new checkbook#
+0004 agent_42 gridspace_other#um can you repeat that item#
+0005 caller_46 gridspace_problem_description#i need a new checkbook#
+0006 agent_42 gridspace_data_question#what is your address#
+0007 caller_46 gridspace_response gridspace_data_question#my address is#
+0008 agent_42 gridspace_response#two seventeen#
+0009 caller_46 gridspace_data_question gridspace_confirm_data#two seventeen#
+0010 caller_46 gridspace_response gridspace_other#first#
+0011 caller_46 gridspace_response#street#
+0012 agent_42 gridspace_other#sorry go ahead#
+0013 caller_46 gridspace_data_response#forest ranch#
+0014 caller_46 gridspace_response gridspace_problem_description#california#
+0015 caller_46 gridspace_response gridspace_data_response#three eight seven zero seven#
+0016 agent_42 gridspace_data_question gridspace_confirm_data#wait it was two seventeen what#
+0017 caller_46 gridspace_response#first street#
+0018 agent_42 gridspace_data_question gridspace_confirm_data#first street#
+0019 caller_46 gridspace_data_response#forest ranch#
+0020 caller_46 gridspace_data_response#california#
+0021 agent_42 gridspace_confirm_data gridspace_procedure_explanation#nice a new checkbook has been sent to your home address#

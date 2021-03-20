@@ -1,0 +1,20 @@
+0000 agent_44 gridspace_greeting#hello this is happy valley national bank my name is jennifer#
+0001 agent_44 gridspace_greeting gridspace_open_question#how can i help you today#
+0002 caller_8 gridspace_greeting gridspace_problem_description#hi my name is james garcia i would like to pay a bill#
+0003 agent_44 gridspace_data_question gridspace_other#what is the company name#
+0004 caller_8 gridspace_greeting gridspace_problem_description#the company is smart electric#
+0005 agent_44 gridspace_other#could you can you repeat the company#
+0006 caller_8 gridspace_greeting gridspace_problem_description#the company name is smart electric#
+0007 agent_44 gridspace_data_question gridspace_other#what's the company's address#
+0008 caller_8 gridspace_response#the address is#
+0009 caller_8 gridspace_response#one nine seven main street#
+0010 caller_8 gridspace_response#harper valley#
+0011 caller_8 gridspace_response gridspace_problem_description#california#
+0012 caller_8 gridspace_data_question gridspace_filler_disfluency#one zero#
+0013 caller_8 gridspace_data_communication gridspace_filler_disfluency#eight seven three#
+0014 agent_44 gridspace_data_question#what is the bill amount#
+0015 caller_8 gridspace_response#the amount of the bill is ninety nine dollars#
+0016 agent_44 gridspace_confirm_data#we will send your payment is smart electric#
+0017 agent_44 gridspace_other gridspace_open_question#is there anything else i can help you with#
+0018 caller_8 gridspace_response gridspace_other#no thank you#
+0019 agent_44 gridspace_thanks gridspace_closing#thank you for calling have a great day#

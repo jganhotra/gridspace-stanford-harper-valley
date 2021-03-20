@@ -1,0 +1,12 @@
+0000 caller_47 gridspace_acknowledgement gridspace_yes_response#mhm#
+0001 agent_16 gridspace_bear_with_me#one moment#
+0002 agent_16 gridspace_greeting gridspace_problem_description#hi my name is james williams i would like to reset my password#
+0003 caller_47 gridspace_data_question gridspace_confirm_data#your password okay#
+0004 caller_47 gridspace_filler_disfluency#um#
+0005 caller_47 gridspace_data_question#may i please get your phone number#
+0006 agent_16 gridspace_data_response#seven nine one#
+0007 agent_16 gridspace_data_response#zero two four#
+0008 agent_16 gridspace_data_communication gridspace_data_response#three three two one#
+0009 caller_47 gridspace_open_question#alright thank you a link will be sent to your phone in order for you to reset your password is there anything else i can help you with#
+0010 agent_16 gridspace_thanks#no thank you#
+0011 caller_47 gridspace_closing#well thank you for calling have a great day#

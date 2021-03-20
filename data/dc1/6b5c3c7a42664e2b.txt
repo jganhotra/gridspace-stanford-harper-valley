@@ -1,0 +1,25 @@
+0000 caller_33 gridspace_greeting#hi my name is i'd like to pay a bill#
+0001 agent_39 gridspace_greeting gridspace_open_question#hello this is harper valley national bank my name is michael how can i help you today#
+0002 agent_39 gridspace_data_question gridspace_procedure_explanation#you would like to pay a bill okay one second#
+0003 agent_39 gridspace_filler_disfluency#um#
+0004 agent_39 gridspace_data_question#alright what is the company name#
+0005 caller_33 gridspace_response#the company is fossil gas#
+0006 agent_39 gridspace_acknowledgement#okay#
+0007 caller_33 gridspace_response gridspace_data_response#the address is eight three two#
+0008 agent_39 gridspace_data_question#would you be able to tell me the company address#
+0009 caller_33 gridspace_data_communication gridspace_data_response#main street#
+0010 caller_33 gridspace_data_communication gridspace_data_response#forest ranch#
+0011 caller_33 gridspace_data_communication gridspace_data_response#california#
+0012 caller_33 gridspace_data_communication gridspace_data_response#nine one eight#
+0013 caller_33 gridspace_data_communication gridspace_data_response#five five#
+0014 agent_39 gridspace_open_question#eight two two main street forest ranch#
+0015 caller_33 gridspace_data_response#california#
+0016 caller_33 gridspace_data_communication gridspace_data_response#nine one eight five five#
+0017 agent_39 gridspace_other#zip code was nine one one eight five five#
+0018 caller_33 gridspace_yes_response gridspace_data_response#yeah nine one eight five five that's the zip code#
+0019 agent_39 gridspace_data_question gridspace_acknowledgement#oh just one one one okay thank you and what is the bill amount#
+0020 caller_33 gridspace_acknowledgement gridspace_other#ninety dollars#
+0021 agent_39 gridspace_bear_with_me#alright just one second while i put this into my system#
+0022 caller_33 gridspace_other#no that's gonna be it for me#
+0023 agent_39 gridspace_open_question#alright is there anything else you needed help with today#
+0024 agent_39 gridspace_open_question gridspace_closing#okay we will send your payment to fossil gas and i do thank you for calling my name is michael from harper valley national bank i hope you have a good day today#

@@ -1,0 +1,28 @@
+0000 agent_8 gridspace_greeting#hello#
+0001 agent_8 gridspace_greeting#this is harper valley national bank#
+0002 caller_54 gridspace_greeting#hi my name is elizabeth garcia#
+0003 agent_8 gridspace_greeting#hi this is harper valley national bank#
+0004 caller_54 gridspace_greeting#hi my name is elizabeth garcia#
+0005 agent_8 gridspace_data_question gridspace_open_question#how can i help you today#
+0006 caller_54 gridspace_procedure_explanation gridspace_problem_description#i need a new checkbook#
+0007 agent_8 gridspace_data_question#what is your address#
+0008 caller_54 gridspace_data_response#my address is three one two#
+0009 caller_54 gridspace_data_response#main street#
+0010 caller_54 gridspace_filler_disfluency gridspace_data_response#harper valley#
+0011 caller_54 gridspace_data_communication gridspace_data_response#oregon#
+0012 caller_54 gridspace_data_response#two six#
+0013 caller_54 gridspace_data_communication gridspace_data_response#nine seven six#
+0014 agent_8 gridspace_data_question gridspace_other#can you repeat the last part of the address after harper valley#
+0015 caller_54 gridspace_data_communication gridspace_data_response#oregon#
+0016 agent_8 gridspace_acknowledgement gridspace_confirm_data#okay#
+0017 caller_54 gridspace_data_communication gridspace_data_response#two six#
+0018 caller_54 gridspace_data_response#nine seven six#
+0019 agent_8 gridspace_confirm_data#that was three one two main street#
+0020 agent_8 gridspace_confirm_data#harper valley oregon#
+0021 agent_8 gridspace_confirm_data#two six#
+0022 agent_8 gridspace_data_question gridspace_confirm_data#nine seven six#
+0023 caller_54 gridspace_yes_response#yes#
+0024 agent_8 gridspace_open_question#is there anything else i can help you with#
+0025 caller_54 gridspace_other#nope that's everything#
+0026 agent_8 gridspace_closing#thank you for calling have a great day#
+0027 caller_54 gridspace_closing#you too bye#

@@ -1,0 +1,27 @@
+0000 agent_24 gridspace_greeting#hello this is harper valley national bank my name is james how can i help you today#
+0001 caller_29 gridspace_greeting gridspace_problem_description#hi my name is elizabeth johnson#
+0002 caller_29 gridspace_problem_description#i would like to pay a bill#
+0003 agent_24 gridspace_data_question#okay and what is the company name#
+0004 caller_29 gridspace_data_response#the company is fossil gas#
+0005 agent_24 gridspace_confirm_data#okay f o s s i l#
+0006 caller_29 gridspace_response gridspace_data_communication#f o s s i l yes#
+0007 agent_24 gridspace_data_question#okay thank you and what is the company address#
+0008 caller_29 gridspace_response#the address is#
+0009 caller_29 gridspace_data_response#six one four#
+0010 caller_29 gridspace_response#main street#
+0011 caller_29 gridspace_response#that's spelled out#
+0012 agent_24 gridspace_acknowledgement gridspace_bear_with_me#okay#
+0013 caller_29 gridspace_response gridspace_data_response#harper va#
+0014 caller_29 gridspace_filler_disfluency gridspace_bear_with_me#harper valley#
+0015 caller_29 gridspace_response gridspace_problem_description#california#
+0016 agent_24 gridspace_data_question#okay and the zip code please#
+0017 caller_29 gridspace_response gridspace_data_response#one two three five one#
+0018 agent_24 gridspace_data_question#alright and what is the bill amount#
+0019 caller_29 gridspace_response gridspace_data_response#the amount of the bill is a hundred and five dollars#
+0020 agent_24 gridspace_procedure_explanation#okay we will send your payment to fossil gas#
+0021 caller_29 gridspace_response gridspace_thanks#alright thanks#
+0022 agent_24 gridspace_other gridspace_open_question#you're welcome is there anything else that i can help you with today#
+0023 caller_29 gridspace_other#no that was everything#
+0024 agent_24 gridspace_closing#thank you for calling have a great day#
+0025 caller_29 gridspace_thanks gridspace_closing#you too thanks#
+0026 agent_24 gridspace_closing#thank you bye#

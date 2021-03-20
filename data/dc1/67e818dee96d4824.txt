@@ -1,0 +1,32 @@
+0000 agent_59 gridspace_greeting#hello this is harper valley national bank#
+0001 agent_59 gridspace_greeting gridspace_open_question#my name is miss michael how can i help you today#
+0002 caller_40 gridspace_greeting gridspace_problem_description#hi my name is jennifer johnson#
+0003 caller_40 gridspace_problem_description#i need a new checkbook#
+0004 agent_59 gridspace_data_question gridspace_other#okay you want me to order you some checkbooks okay#
+0005 agent_59 gridspace_data_question gridspace_open_question#can do that for you today#
+0006 agent_59 gridspace_data_question#and what is your address#
+0007 caller_40 gridspace_data_response#my address is three six six#
+0008 agent_59 gridspace_other gridspace_confirm_data#three six six#
+0009 caller_40 gridspace_data_response#main street#
+0010 agent_59 gridspace_data_question gridspace_confirm_data#main#
+0011 agent_59 gridspace_acknowledgement#street#
+0012 agent_59 gridspace_acknowledgement#okay#
+0013 agent_59 gridspace_data_question#and what state#
+0014 agent_59 gridspace_data_question gridspace_confirm_data#you said three six six main street#
+0015 caller_40 gridspace_other#i'm sorry what was that#
+0016 caller_40 gridspace_response#harper valley#
+0017 agent_59 gridspace_other gridspace_bear_with_me#harper#
+0018 caller_40 gridspace_confirm_data#california#
+0019 agent_59 gridspace_confirm_data gridspace_bear_with_me#valley#
+0020 agent_59 gridspace_confirm_data#california#
+0021 agent_59 gridspace_confirm_data#and your zip#
+0022 agent_59 gridspace_data_question gridspace_other#and what is your zip code i'm sorry#
+0023 caller_40 gridspace_response gridspace_data_response#nine three four seven one#
+0024 agent_59 gridspace_confirm_data gridspace_bear_with_me#mkay#
+0025 agent_59 gridspace_acknowledgement gridspace_bear_with_me#i got that#
+0026 agent_59 gridspace_open_question#is there anything else i can help you with today#
+0027 caller_40 gridspace_other gridspace_closing#uh no that's gonna do it thank you#
+0028 agent_59 gridspace_other gridspace_procedure_explanation#okay you got that already should be receiving that within a week or two#
+0029 agent_59 gridspace_open_question gridspace_closing#and you have a great day#
+0030 agent_59 gridspace_thanks gridspace_closing#thank you#
+0031 caller_40 gridspace_thanks gridspace_other#you too#

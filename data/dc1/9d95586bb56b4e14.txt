@@ -1,0 +1,15 @@
+0000 caller_28 gridspace_greeting gridspace_problem_description#it's way past bedtime#
+0001 agent_40 gridspace_greeting#hello this is harper valley national bank my name is mary#
+0002 agent_40 gridspace_greeting#how can i help you today#
+0003 caller_28 gridspace_greeting#hi my name is mary miller i need a new checkbook#
+0004 agent_40 gridspace_data_question#what is your address#
+0005 caller_28 gridspace_data_response#my address is seven forty#
+0006 caller_28 gridspace_data_response#first street#
+0007 caller_28 gridspace_data_communication gridspace_data_response#harper valley#
+0008 caller_28 gridspace_data_communication gridspace_data_response#oregon#
+0009 caller_28 gridspace_data_communication gridspace_data_response#five seven one nine zero#
+0010 agent_40 gridspace_data_question#alright and a new check book has been sent to your home address#
+0011 agent_40 gridspace_open_question#is there anything else i can help you with#
+0012 caller_28 gridspace_thanks gridspace_other#no that'll be it thank you#
+0013 agent_40 gridspace_closing#thank you for calling have a great day#
+0014 caller_28 gridspace_thanks gridspace_closing#you too#

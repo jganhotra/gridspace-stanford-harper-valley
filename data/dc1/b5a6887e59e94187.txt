@@ -1,0 +1,13 @@
+0000 caller_33 gridspace_greeting#hello#
+0001 agent_44 gridspace_greeting#hello this is national bank my name is jennifer#
+0002 agent_44 gridspace_greeting gridspace_open_question#how can i help you today#
+0003 caller_33 gridspace_response#hi my name is james william#
+0004 caller_33 gridspace_problem_description#i lost my debit card#
+0005 caller_33 gridspace_other gridspace_problem_description#can you send me a new one#
+0006 agent_44 gridspace_acknowledgement gridspace_other#yes#
+0007 agent_44 gridspace_other#uh which card or would you like to replace#
+0008 caller_33 gridspace_problem_description#my debit card#
+0009 agent_44 gridspace_procedure_explanation gridspace_open_question#okay i've ordered your replacement debit card is there anything else i can help you with today#
+0010 caller_33 gridspace_other#no that's gonna be all for me today#
+0011 agent_44 gridspace_procedure_explanation gridspace_closing#alright thank you for calling have a great day#
+0012 caller_33 gridspace_thanks gridspace_closing#you too bye#

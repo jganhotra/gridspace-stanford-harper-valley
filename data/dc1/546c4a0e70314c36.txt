@@ -1,0 +1,16 @@
+0000 agent_48 gridspace_greeting#hello this is harper valley#
+0001 agent_48 gridspace_greeting gridspace_other#my name is#
+0002 agent_48 gridspace_data_communication gridspace_greeting#patricia#
+0003 agent_48 gridspace_greeting gridspace_open_question#how can i help you today#
+0004 caller_22 gridspace_greeting#hi my name is john jones i need a new checkbook#
+0005 agent_48 gridspace_acknowledgement gridspace_filler_disfluency#okay#
+0006 agent_48 gridspace_other#one moment i'd be happy to help you get that taken care of today#
+0007 agent_48 gridspace_data_question#so we're ordering you a check book and what's the address that you would like it sent to#
+0008 caller_22 gridspace_response#my address is seven one six main street#
+0009 caller_22 gridspace_response#harper valley oregon#
+0010 caller_22 gridspace_response gridspace_data_communication#zero eight zero eight four#
+0011 agent_48 gridspace_acknowledgement gridspace_confirm_data#okay#
+0012 agent_48 gridspace_data_question gridspace_confirm_data#alright well a new checkbook has been sent to your home address#
+0013 agent_48 gridspace_open_question#is there anything else i can help you with today#
+0014 caller_22 gridspace_other gridspace_problem_description#no that's all#
+0015 agent_48 gridspace_acknowledgement gridspace_closing#okay excellent#

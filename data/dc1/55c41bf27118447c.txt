@@ -1,0 +1,27 @@
+0000 caller_17 gridspace_response#hi my name is jennifer david i need a new checkbook#
+0001 agent_48 gridspace_greeting#this is harper valley national bank#
+0002 agent_48 gridspace_greeting gridspace_open_question#my name is david how can i help you today#
+0003 agent_48 gridspace_acknowledgement#okay#
+0004 agent_48 gridspace_other#i'd be happy to help you get a new checkbook sent to your address#
+0005 agent_48 gridspace_data_question#and what is the address that you'd like this checkbook sent to#
+0006 caller_17 gridspace_response#um#
+0007 caller_17 gridspace_response#okay so my address is one eight eight#
+0008 caller_17 gridspace_response gridspace_other#first street#
+0009 caller_17 gridspace_response#forest ranch#
+0010 caller_17 gridspace_other gridspace_problem_description#california#
+0011 caller_17 gridspace_other#the zip is nine#
+0012 caller_17 gridspace_other gridspace_problem_description#four one#
+0013 caller_17 gridspace_acknowledgement gridspace_yes_response#six#
+0014 caller_17 gridspace_other#five#
+0015 agent_48 gridspace_other#okay and you said third three is that spelled t h i r d or is that the letter or the number three#
+0016 caller_17 gridspace_response gridspace_other#uh#
+0017 caller_17 gridspace_response gridspace_other#so first street is f i r s t#
+0018 agent_48 gridspace_other gridspace_acknowledgement#oh first street okay#
+0019 agent_48 gridspace_other gridspace_acknowledgement#glad i asked that would've gone to the wrong address#
+0020 agent_48 gridspace_other gridspace_filler_disfluency#okay so#
+0021 agent_48 gridspace_other gridspace_procedure_explanation#a new checkbook has been sent to your home address it should arrive within three to five business days ma'am#
+0022 caller_17 gridspace_thanks#thank you#
+0023 agent_48 gridspace_acknowledgement gridspace_other#okay#
+0024 agent_48 gridspace_other gridspace_closing#thank you for calling have a great day#
+0025 caller_17 gridspace_closing#you too bye#
+0026 agent_48 gridspace_closing#bye bye#

@@ -1,0 +1,18 @@
+0000 agent_60 gridspace_greeting#hello this is harper valley national bank my name is elizabeth how can i help you today#
+0001 caller_39 gridspace_other gridspace_greeting#hi my name is jennifer johnson#
+0002 caller_39 gridspace_problem_description#and i would like i i need a new checkbook#
+0003 agent_60 gridspace_data_question#a new check book okay and what is your address#
+0004 caller_39 gridspace_filler_disfluency#um#
+0005 caller_39 gridspace_data_response gridspace_bear_with_me#one second uhm#
+0006 caller_39 gridspace_data_response#my address is uh one nine nine#
+0007 caller_39 gridspace_response gridspace_data_response#and then uhm first street f i r s t street comma forest f o r e s t ranch r a n c h comma#
+0008 caller_39 gridspace_other#oregon the state and then comma#
+0009 caller_39 gridspace_other#seven eight nine six four is the zip code#
+0010 agent_60 gridspace_acknowledgement#okay#
+0011 agent_60 gridspace_data_question#and can you repeat that zip code for me once#
+0012 caller_39 gridspace_response#zip code is seven eight nine six four#
+0013 agent_60 gridspace_other#great alright a new checkbook has been sent to your home address#
+0014 agent_60 gridspace_open_question#is there anything else i can help you with#
+0015 caller_39 gridspace_other#um uh#
+0016 caller_39 gridspace_thanks#i think that's about it i really needed that checkbook so thank you so much for your help#
+0017 agent_60 gridspace_other gridspace_closing#uh huh thank you for calling have a great day#

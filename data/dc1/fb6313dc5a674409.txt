@@ -1,0 +1,18 @@
+0000 agent_46 gridspace_greeting#hello this is harper valley national bank my name is james how can i help you today#
+0001 caller_47 gridspace_greeting gridspace_problem_description#hi my name is michael johnson i would like to pay a bill#
+0002 agent_46 gridspace_data_question#okay and what is the name of the company#
+0003 caller_47 gridspace_data_response gridspace_problem_description#the company is smart electric#
+0004 agent_46 gridspace_data_question#what is the company address#
+0005 caller_47 gridspace_data_response#the address is eight eight five#
+0006 caller_47 gridspace_data_response#first street#
+0007 caller_47 gridspace_data_communication gridspace_data_response#harper valley#
+0008 caller_47 gridspace_data_response#california#
+0009 caller_47 gridspace_data_response#seven two three eight zero#
+0010 agent_46 gridspace_data_question#can you repeat that zip code for me please#
+0011 caller_47 gridspace_response gridspace_data_response#seven two three eight zero#
+0012 agent_46 gridspace_data_question gridspace_confirm_data#okay and what is the bill amount#
+0013 caller_47 gridspace_data_response#the amount of the bill is seventy seven dollars#
+0014 agent_46 gridspace_procedure_explanation gridspace_open_question#will get that sent right away is there anything else i can help you with#
+0015 agent_46 gridspace_closing#thank you for calling have a great day#
+0016 caller_47 gridspace_thanks gridspace_other#no thank you#
+0017 caller_47 gridspace_closing#you too#

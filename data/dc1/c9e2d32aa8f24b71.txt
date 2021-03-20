@@ -1,0 +1,9 @@
+0000 agent_17 gridspace_greeting gridspace_open_question#hello this is happy valley national bank my name is david how can i help you today#
+0001 caller_53 gridspace_response gridspace_data_communication#hi my name is michael williams i lost my credit card can you send me a new one#
+0002 agent_17 gridspace_other gridspace_open_question#sure i can help you with that uh which#
+0003 agent_17 gridspace_other#um so i i will help you to replace your card but which card would you like to replace#
+0004 agent_17 gridspace_acknowledgement gridspace_yes_response#okay#
+0005 caller_53 gridspace_response#my credit card#
+0006 agent_17 gridspace_other gridspace_open_question#so i have order you a replacement credit card and you should be able to receive it in three to five business days is there anything else i can help you with#
+0007 agent_17 gridspace_closing#thank you for calling have a great day#
+0008 caller_53 gridspace_other#that'll be all thank you#

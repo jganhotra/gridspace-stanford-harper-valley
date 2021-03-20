@@ -1,0 +1,9 @@
+0000 agent_29 gridspace_greeting gridspace_other#hello this is harp#
+0001 agent_29 gridspace_greeting gridspace_open_question#bank my name is mary how can i help you today#
+0002 caller_9 gridspace_greeting gridspace_problem_description#hi my name is mary johnson and i need to ask what are the local branch hours#
+0003 caller_9 gridspace_filler_disfluency gridspace_bear_with_me#i see#
+0004 agent_29 gridspace_data_question gridspace_open_question#the branch hours are nine thirty a m#
+0005 agent_29 gridspace_other gridspace_confirm_data#to five p m#
+0006 caller_9 gridspace_open_question#that's all i needed today#
+0007 agent_29 gridspace_thanks gridspace_closing#thank you for calling have a great day#
+0008 caller_9 gridspace_closing#you too bye bye#

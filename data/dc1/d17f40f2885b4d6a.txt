@@ -1,0 +1,24 @@
+0000 agent_3 gridspace_greeting#hello#
+0001 agent_3 gridspace_greeting#this is harper valley national bank my name is james#
+0002 agent_3 gridspace_greeting gridspace_open_question#how can i help you today#
+0003 caller_28 gridspace_problem_description#hi my name is robert williams#
+0004 caller_28 gridspace_other gridspace_problem_description#i would like to pay a bill#
+0005 agent_3 gridspace_data_question#uh alright uhm what is the company name#
+0006 caller_28 gridspace_data_response#smart electric#
+0007 agent_3 gridspace_data_question gridspace_other#can you repeat the company#
+0008 caller_28 gridspace_response gridspace_data_response#smart electric#
+0009 agent_3 gridspace_data_question#alright and what's the address#
+0010 caller_28 gridspace_response gridspace_data_response#it is four zero eight#
+0011 caller_28 gridspace_response#first street#
+0012 caller_28 gridspace_response#harper valley#
+0013 caller_28 gridspace_response gridspace_data_response#california#
+0014 caller_28 gridspace_response gridspace_data_response#nine seven two seven two#
+0015 agent_3 gridspace_data_question#alright and what is the bill amount#
+0016 caller_28 gridspace_data_communication gridspace_data_response#one hundred seventeen dollars#
+0017 agent_3 gridspace_acknowledgement gridspace_filler_disfluency#alright um#
+0018 agent_3 gridspace_data_question gridspace_confirm_data#we have sent your payment#
+0019 caller_28 gridspace_thanks#okay thank you#
+0020 agent_3 gridspace_open_question#alright is there anything else i can help with#
+0021 caller_28 gridspace_other#no that'll be it#
+0022 agent_3 gridspace_thanks gridspace_closing#alright thank you#
+0023 caller_28 gridspace_closing#you too bye#

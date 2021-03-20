@@ -1,0 +1,24 @@
+0000 agent_0 gridspace_greeting#hello this is harper valley national bank my name is elizabeth#
+0001 caller_17 gridspace_greeting gridspace_problem_description#hi my name is david miller i would like to pay a bill#
+0002 agent_0 gridspace_greeting gridspace_open_question#how can i help you today#
+0003 agent_0 gridspace_acknowledgement gridspace_yes_response#okay#
+0004 agent_0 gridspace_data_question gridspace_other#what is the company name#
+0005 caller_17 gridspace_data_communication gridspace_data_response#uh the company is smart electric e l e c t i c#
+0006 agent_0 gridspace_data_question#and what is the company address#
+0007 caller_17 gridspace_other gridspace_data_communication#uh#
+0008 caller_17 gridspace_other gridspace_data_communication#the address is eight forty two#
+0009 caller_17 gridspace_response gridspace_data_communication#first street#
+0010 caller_17 gridspace_data_communication gridspace_other#forest ranch#
+0011 caller_17 gridspace_data_communication gridspace_data_response#california#
+0012 caller_17 gridspace_data_response#and the zip is nine seven three one three#
+0013 agent_0 gridspace_data_question gridspace_confirm_data#you said the zip code was nine seven three one three#
+0014 caller_17 gridspace_response gridspace_yes_response#correct#
+0015 agent_0 gridspace_acknowledgement#okay#
+0016 agent_0 gridspace_data_question#and what is the bill amount#
+0017 caller_17 gridspace_other#the amount of the bill as a hundred and thirty dollars#
+0018 agent_0 gridspace_other gridspace_confirm_data#okay so just to confirm you're paying a bill to smart electric for a hundred and thirty dollars is that right#
+0019 caller_17 gridspace_yes_response#yes#
+0020 agent_0 gridspace_other gridspace_procedure_explanation#okay i've paid that bill on your behalf#
+0021 agent_0 gridspace_open_question#is there anything else i can help you with#
+0022 caller_17 gridspace_thanks#uh no that's actually all i need for today thank you so much#
+0023 agent_0 gridspace_closing#thank you for calling have a great day#

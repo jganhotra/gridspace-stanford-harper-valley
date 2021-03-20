@@ -1,0 +1,12 @@
+0000 agent_17 gridspace_greeting gridspace_open_question#hello this is harper valley national bank my name is jennifer how can i help you today#
+0001 caller_53 gridspace_greeting gridspace_problem_description#hi my name is mary rodriguez i need a new checkbook#
+0002 agent_17 gridspace_data_question#sure i can help you with that what is your address#
+0003 caller_53 gridspace_problem_description gridspace_data_response#my address is five seven five#
+0004 caller_53 gridspace_problem_description gridspace_data_response#first street#
+0005 caller_53 gridspace_other gridspace_thanks#that's in forest ranch california#
+0006 caller_53 gridspace_problem_description gridspace_data_response#and the zip code is eight one eight eight nine#
+0007 agent_17 gridspace_other gridspace_procedure_explanation#eight one eight eight nine okay so a new checkbook has been sent to your home address and you should be able to receive it in three to five business days#
+0008 caller_53 gridspace_acknowledgement gridspace_filler_disfluency#mhm#
+0009 agent_17 gridspace_open_question#is there anything else i can help you with#
+0010 caller_53 gridspace_thanks gridspace_closing#that'll be all thank you#
+0011 agent_17 gridspace_closing#thank you for calling have a great day#
